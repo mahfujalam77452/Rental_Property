@@ -1,9 +1,14 @@
 package routers
 
 import (
-	_ "github.com/beego/beego/v2/server/web"
+	"Beego_API/controllers"
+    beego "github.com/beego/beego/v2/server/web"
 )
 
 func init(){
-	
+	ns := beego.NewNamespace("/v1",
+	beego.NSRouter("/properties/:id",&controllers.PropertyController{},"get:GetByID"),
+	)
+
+	beego.AddNamespace(ns)
 }

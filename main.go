@@ -3,8 +3,8 @@ package main
 import (
 	_ "Beego_API/routers"
 	"Beego_API/services"
-	_ "fmt"
 	
+	_ "fmt"
 
 	"github.com/beego/beego/v2/core/logs"
 	bee "github.com/beego/beego/v2/server/web"
@@ -23,5 +23,6 @@ func main() {
 		logs.Error("Property load failed : ",err)
 	}
 	services.PropertyServices = *propertiesObject
+	
 	bee.Run()
 }
