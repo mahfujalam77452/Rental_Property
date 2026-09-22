@@ -1,15 +1,74 @@
 package services
 
 import (
-	
-	"fmt"
 	"Beego_API/models"
 	"encoding/json"
 	"errors"
+	"fmt"
 	"os"
 	"strings"
+
+	_ "github.com/beego/beego/v2/core/logs"
+	_ "github.com/beego/beego/v2/core/logs"
 )
 
+
+func transformProperty(property models.Property)(*models.PropertyResponse,error) {
+   var breadcrumbs []models.Breadcrumb
+
+   err := json.Unmarshal([]byte(property.Categories),&breadcrumbs)
+   
+   if err != nil {
+	return  nil,fmt.Errorf("Failed to parse the categories : %w",err)
+   }
+
+   if len(property.LonLat.Coordinates) < 2 {
+	return  nil,errors.New("Invalid property condinates !")
+   }
+
+   response := &models.PropertyResponse{
+        ID : property.ID,
+		Feed: property.Feed,
+		Published: property.Published,
+
+		GeoInfo: models.GeoInfo{
+			Breadcrumbs: breadcrumbs,
+			City: property.City,
+			Country: property.Country,
+			CountryCode: property.CountryCode,
+			Name: property.Display,
+			LocationID: property.LocationID,
+			Lat: property.LonLat.Coordinates[1],
+			Lon:property.LonLat.Coordinates[0],
+			State: property.State,
+			StateAbbr: property.StateAbbr,
+
+		},
+		Property: models.PropertyInfo{
+			Amenities: property.AmenityCategories,
+			Name: property.PropertyName,
+			Slug: property.PropertySlug,
+			PropertyType: property.PropertyTypeCategory,
+			Price: property.USDPrice,
+			ReviewScore: property.ReviewScoreGeneral,
+			StarRating: property.StarRating,
+
+			Counts: models.Counts{
+				Bathroom: property.BathroomCount,
+				Bedroom: property.BedroomCount,
+				Reviews: property.NumberOfReview,
+				Occupancy: property.Occupancy,
+			},
+			Image: models.Image{
+				Count: len(property.Images),
+				Images: property.Images,
+			},
+		},
+
+   }
+
+   return  response,nil
+}
 func loadProperties(path string)([]models.Property,error){
       
 	  data,err := os.ReadFile(path)
@@ -27,6 +86,8 @@ func loadProperties(path string)([]models.Property,error){
 		fmt.Println(err)
 		return nil, fmt.Errorf("Converstion of Propeties data json -> struct failed : %w",err)
 	  }
+	  
+	 
 	  
 
 	  return properties,nil

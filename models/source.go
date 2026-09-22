@@ -10,7 +10,7 @@ type Property struct{
 	Country string `json:"country"`
 	CountryCode string `json:"country_code"`
 	State string `json:"state"`
-	State_Abbr string `json:"state_abbr"`
+	StateAbbr string `json:"state_abbr"`
 	City string `json:"city"`
 	Display string `json:"display"`
 	LocationID string `json:"loacation_id"`

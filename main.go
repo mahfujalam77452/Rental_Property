@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-    path,err := bee.AppConfig.String("data_path")
+    path,err := bee.AppConfig.String("data_file")
     
 	if err != nil {
 		logs.Error("Extracting path variable from app.conf file failed !")
