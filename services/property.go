@@ -119,3 +119,23 @@ func NewPropertyServices(filePath string)(*AllPropertyServices,error) {
 }
 
 var PropertyServices AllPropertyServices
+
+func (s *AllPropertyServices) GetPropertyByID(id string)(*models.PropertyResponse,error) {
+
+	for _,property := range s.Properties {
+         if property.ID == id {
+			
+			transformProperty,err := transformProperty(property)
+
+			if err != nil {
+				return  nil,fmt.Errorf("can't transform data !")
+
+			}
+
+			return transformProperty,nil
+			
+		 }
+	}
+
+	return nil,errors.New("Property Not found !")
+}
