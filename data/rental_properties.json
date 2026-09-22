@@ -1,0 +1,4062 @@
+[
+  {
+    "id": "BC-1000001",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Tokyo",
+    "state_abbr": null,
+    "city": "Shinjuku",
+    "display": "Shinjuku, Japan",
+    "location_id": "6100001",
+    "property_name": "Shinjuku Grand Resort",
+    "property_slug": "shinjuku-grand-resort-0001",
+    "property_type_category": "Resort",
+    "usd_price": 116.69,
+    "occupancy": 3,
+    "bedroom_count": 2,
+    "bathroom_count": 2,
+    "number_of_review": 304,
+    "review_score_general": 4.2,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Child Friendly",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        139.6917,
+        35.6895
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050001\",\"Name\": \"Tokyo\",\"Type\": \"state\",\"Slug\": \"japan/tokyo\",\"Display\": [\"japan\",\"tokyo\"]},{\"LocationID\": \"6100001\",\"Name\": \"Shinjuku\",\"Type\": \"city\",\"Slug\": \"japan/tokyo/shinjuku\",\"Display\": [\"japan\",\"tokyo\",\"shinjuku\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000002",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Tokyo",
+    "state_abbr": null,
+    "city": "Shibuya",
+    "display": "Shibuya, Japan",
+    "location_id": "6100002",
+    "property_name": "Shibuya Riverside Resort",
+    "property_slug": "shibuya-riverside-resort-0002",
+    "property_type_category": "Resort",
+    "usd_price": 305.68,
+    "occupancy": 8,
+    "bedroom_count": 3,
+    "bathroom_count": 1,
+    "number_of_review": 84,
+    "review_score_general": 6.2,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Internet",
+      "Parking",
+      "Gym",
+      "Breakfast Included"
+    ],
+    "lonlat": {
+      "coordinates": [
+        139.7003,
+        35.658
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050001\",\"Name\": \"Tokyo\",\"Type\": \"state\",\"Slug\": \"japan/tokyo\",\"Display\": [\"japan\",\"tokyo\"]},{\"LocationID\": \"6100002\",\"Name\": \"Shibuya\",\"Type\": \"city\",\"Slug\": \"japan/tokyo/shibuya\",\"Display\": [\"japan\",\"tokyo\",\"shibuya\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000003",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Osaka",
+    "state_abbr": null,
+    "city": "Namba",
+    "display": "Namba, Japan",
+    "location_id": "6100003",
+    "property_name": "Namba Central Hotel",
+    "property_slug": "namba-central-hotel-0003",
+    "property_type_category": "Hotel",
+    "usd_price": 47.36,
+    "occupancy": 8,
+    "bedroom_count": 5,
+    "bathroom_count": 1,
+    "number_of_review": 196,
+    "review_score_general": 3.5,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Laundry",
+      "Kitchen",
+      "Child Friendly",
+      "Breakfast Included",
+      "Air Conditioner",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        135.5023,
+        34.6654
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050002\",\"Name\": \"Osaka\",\"Type\": \"state\",\"Slug\": \"japan/osaka\",\"Display\": [\"japan\",\"osaka\"]},{\"LocationID\": \"6100003\",\"Name\": \"Namba\",\"Type\": \"city\",\"Slug\": \"japan/osaka/namba\",\"Display\": [\"japan\",\"osaka\",\"namba\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000004",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Osaka",
+    "state_abbr": null,
+    "city": "Umeda",
+    "display": "Umeda, Japan",
+    "location_id": "6100004",
+    "property_name": "Umeda Garden House",
+    "property_slug": "umeda-garden-house-0004",
+    "property_type_category": "House",
+    "usd_price": 302.44,
+    "occupancy": 6,
+    "bedroom_count": 2,
+    "bathroom_count": 2,
+    "number_of_review": 13,
+    "review_score_general": 8.4,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Kitchen",
+      "Parking",
+      "Hot Tub",
+      "Pool",
+      "Laundry"
+    ],
+    "lonlat": {
+      "coordinates": [
+        135.4983,
+        34.7024
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050002\",\"Name\": \"Osaka\",\"Type\": \"state\",\"Slug\": \"japan/osaka\",\"Display\": [\"japan\",\"osaka\"]},{\"LocationID\": \"6100004\",\"Name\": \"Umeda\",\"Type\": \"city\",\"Slug\": \"japan/osaka/umeda\",\"Display\": [\"japan\",\"osaka\",\"umeda\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000005",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Kyoto",
+    "state_abbr": null,
+    "city": "Gion",
+    "display": "Gion, Japan",
+    "location_id": "6100005",
+    "property_name": "The Gion Hotel",
+    "property_slug": "the-gion-hotel-0005",
+    "property_type_category": "Hotel",
+    "usd_price": 110.71,
+    "occupancy": 4,
+    "bedroom_count": 1,
+    "bathroom_count": 2,
+    "number_of_review": 46,
+    "review_score_general": 3.7,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Pool",
+      "Child Friendly",
+      "Breakfast Included",
+      "Kitchen",
+      "Gym",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        135.7798,
+        35.0037
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050003\",\"Name\": \"Kyoto\",\"Type\": \"state\",\"Slug\": \"japan/kyoto\",\"Display\": [\"japan\",\"kyoto\"]},{\"LocationID\": \"6100005\",\"Name\": \"Gion\",\"Type\": \"city\",\"Slug\": \"japan/kyoto/gion\",\"Display\": [\"japan\",\"kyoto\",\"gion\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000006",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Kyoto",
+    "state_abbr": null,
+    "city": "Arashiyama",
+    "display": "Arashiyama, Japan",
+    "location_id": "6100006",
+    "property_name": "Arashiyama Harbor Hostel",
+    "property_slug": "arashiyama-harbor-hostel-0006",
+    "property_type_category": "Hostel",
+    "usd_price": 268.31,
+    "occupancy": 5,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 120,
+    "review_score_general": 7.3,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Wheelchair Accessible",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        135.6689,
+        35.0094
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050003\",\"Name\": \"Kyoto\",\"Type\": \"state\",\"Slug\": \"japan/kyoto\",\"Display\": [\"japan\",\"kyoto\"]},{\"LocationID\": \"6100006\",\"Name\": \"Arashiyama\",\"Type\": \"city\",\"Slug\": \"japan/kyoto/arashiyama\",\"Display\": [\"japan\",\"kyoto\",\"arashiyama\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000007",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Nara",
+    "state_abbr": null,
+    "city": "Nara",
+    "display": "Nara, Japan",
+    "location_id": "6139567",
+    "property_name": "Nara Skyline Hostel",
+    "property_slug": "nara-skyline-hostel-0007",
+    "property_type_category": "Hostel",
+    "usd_price": 340.53,
+    "occupancy": 3,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 401,
+    "review_score_general": 9.1,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Pet Friendly",
+      "Gym",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        135.8187,
+        34.688
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050641\",\"Name\": \"Nara\",\"Type\": \"state\",\"Slug\": \"japan/nara\",\"Display\": [\"japan\",\"nara\"]},{\"LocationID\": \"6139567\",\"Name\": \"Nara\",\"Type\": \"city\",\"Slug\": \"japan/nara/nara\",\"Display\": [\"japan\",\"nara\",\"nara\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000008",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Aichi",
+    "state_abbr": null,
+    "city": "Ichinomiya",
+    "display": "Ichinomiya, Japan",
+    "location_id": "6152361",
+    "property_name": "Ichinomiya House",
+    "property_slug": "ichinomiya-house-0008",
+    "property_type_category": "House",
+    "usd_price": 323.7,
+    "occupancy": 2,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 52,
+    "review_score_general": 7.6,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Laundry",
+      "Breakfast Included",
+      "Pool",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        136.8085,
+        35.3016
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6053687\",\"Name\": \"Aichi\",\"Type\": \"state\",\"Slug\": \"japan/aichi\",\"Display\": [\"japan\",\"aichi\"]},{\"LocationID\": \"6152361\",\"Name\": \"Ichinomiya\",\"Type\": \"city\",\"Slug\": \"japan/aichi/ichinomiya\",\"Display\": [\"japan\",\"aichi\",\"ichinomiya\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000009",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Aichi",
+    "state_abbr": null,
+    "city": "Nagoya",
+    "display": "Nagoya, Japan",
+    "location_id": "6127908",
+    "property_name": "Nagoya Grand Apartment",
+    "property_slug": "nagoya-grand-apartment-0009",
+    "property_type_category": "Apartment",
+    "usd_price": 336.24,
+    "occupancy": 4,
+    "bedroom_count": 2,
+    "bathroom_count": 2,
+    "number_of_review": 27,
+    "review_score_general": 8.4,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Internet",
+      "Gym",
+      "Air Conditioner",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        136.9066,
+        35.1815
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6053687\",\"Name\": \"Aichi\",\"Type\": \"state\",\"Slug\": \"japan/aichi\",\"Display\": [\"japan\",\"aichi\"]},{\"LocationID\": \"6127908\",\"Name\": \"Nagoya\",\"Type\": \"city\",\"Slug\": \"japan/aichi/nagoya\",\"Display\": [\"japan\",\"aichi\",\"nagoya\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000010",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Fukui",
+    "state_abbr": null,
+    "city": "Sabae",
+    "display": "Sabae, Japan",
+    "location_id": "6348896",
+    "property_name": "Sabae Riverside Resort",
+    "property_slug": "sabae-riverside-resort-0010",
+    "property_type_category": "Resort",
+    "usd_price": 322.44,
+    "occupancy": 1,
+    "bedroom_count": 4,
+    "bathroom_count": 2,
+    "number_of_review": 404,
+    "review_score_general": 4.7,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Internet",
+      "Parking",
+      "Child Friendly",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        136.258,
+        35.9497
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6053692\",\"Name\": \"Fukui\",\"Type\": \"state\",\"Slug\": \"japan/fukui\",\"Display\": [\"japan\",\"fukui\"]},{\"LocationID\": \"6348896\",\"Name\": \"Sabae\",\"Type\": \"city\",\"Slug\": \"japan/fukui/sabae\",\"Display\": [\"japan\",\"fukui\",\"sabae\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000011",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Fukui",
+    "state_abbr": null,
+    "city": "Fukui",
+    "display": "Fukui, Japan",
+    "location_id": "6141031",
+    "property_name": "Fukui Central Hostel",
+    "property_slug": "fukui-central-hostel-0011",
+    "property_type_category": "Hostel",
+    "usd_price": 202.33,
+    "occupancy": 6,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 110,
+    "review_score_general": 5.2,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Child Friendly",
+      "Parking",
+      "Kitchen",
+      "Gym",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        136.2216,
+        36.0652
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6053692\",\"Name\": \"Fukui\",\"Type\": \"state\",\"Slug\": \"japan/fukui\",\"Display\": [\"japan\",\"fukui\"]},{\"LocationID\": \"6141031\",\"Name\": \"Fukui\",\"Type\": \"city\",\"Slug\": \"japan/fukui/fukui\",\"Display\": [\"japan\",\"fukui\",\"fukui\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000012",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Hokkaido",
+    "state_abbr": null,
+    "city": "Sapporo",
+    "display": "Sapporo, Japan",
+    "location_id": "6100012",
+    "property_name": "Sapporo Garden Apartment",
+    "property_slug": "sapporo-garden-apartment-0012",
+    "property_type_category": "Apartment",
+    "usd_price": 98.59,
+    "occupancy": 8,
+    "bedroom_count": 4,
+    "bathroom_count": 1,
+    "number_of_review": 205,
+    "review_score_general": 7.9,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Kitchen",
+      "Breakfast Included",
+      "Gym",
+      "Child Friendly",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        141.3545,
+        43.0618
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050012\",\"Name\": \"Hokkaido\",\"Type\": \"state\",\"Slug\": \"japan/hokkaido\",\"Display\": [\"japan\",\"hokkaido\"]},{\"LocationID\": \"6100012\",\"Name\": \"Sapporo\",\"Type\": \"city\",\"Slug\": \"japan/hokkaido/sapporo\",\"Display\": [\"japan\",\"hokkaido\",\"sapporo\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000013",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Hokkaido",
+    "state_abbr": null,
+    "city": "Hakodate",
+    "display": "Hakodate, Japan",
+    "location_id": "6100013",
+    "property_name": "The Hakodate Resort",
+    "property_slug": "the-hakodate-resort-0013",
+    "property_type_category": "Resort",
+    "usd_price": 251.91,
+    "occupancy": 5,
+    "bedroom_count": 5,
+    "bathroom_count": 2,
+    "number_of_review": 30,
+    "review_score_general": 9.2,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Hot Tub",
+      "Laundry",
+      "Pet Friendly",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        140.7288,
+        41.7688
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050012\",\"Name\": \"Hokkaido\",\"Type\": \"state\",\"Slug\": \"japan/hokkaido\",\"Display\": [\"japan\",\"hokkaido\"]},{\"LocationID\": \"6100013\",\"Name\": \"Hakodate\",\"Type\": \"city\",\"Slug\": \"japan/hokkaido/hakodate\",\"Display\": [\"japan\",\"hokkaido\",\"hakodate\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000014",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Fukuoka",
+    "state_abbr": null,
+    "city": "Fukuoka",
+    "display": "Fukuoka, Japan",
+    "location_id": "6100014",
+    "property_name": "Fukuoka Harbor Apartment",
+    "property_slug": "fukuoka-harbor-apartment-0014",
+    "property_type_category": "Apartment",
+    "usd_price": 192.39,
+    "occupancy": 3,
+    "bedroom_count": 5,
+    "bathroom_count": 2,
+    "number_of_review": 90,
+    "review_score_general": 8.9,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Child Friendly",
+      "Gym",
+      "Pet Friendly",
+      "Hot Tub",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        130.4017,
+        33.5904
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050014\",\"Name\": \"Fukuoka\",\"Type\": \"state\",\"Slug\": \"japan/fukuoka\",\"Display\": [\"japan\",\"fukuoka\"]},{\"LocationID\": \"6100014\",\"Name\": \"Fukuoka\",\"Type\": \"city\",\"Slug\": \"japan/fukuoka/fukuoka\",\"Display\": [\"japan\",\"fukuoka\",\"fukuoka\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000015",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Okinawa",
+    "state_abbr": null,
+    "city": "Naha",
+    "display": "Naha, Japan",
+    "location_id": "6100015",
+    "property_name": "Naha Skyline Hotel",
+    "property_slug": "naha-skyline-hotel-0015",
+    "property_type_category": "Hotel",
+    "usd_price": 62.42,
+    "occupancy": 3,
+    "bedroom_count": 1,
+    "bathroom_count": 3,
+    "number_of_review": 164,
+    "review_score_general": 5.8,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Child Friendly",
+      "Pet Friendly",
+      "Gym",
+      "Breakfast Included",
+      "Kitchen",
+      "Laundry"
+    ],
+    "lonlat": {
+      "coordinates": [
+        127.6809,
+        26.2124
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050015\",\"Name\": \"Okinawa\",\"Type\": \"state\",\"Slug\": \"japan/okinawa\",\"Display\": [\"japan\",\"okinawa\"]},{\"LocationID\": \"6100015\",\"Name\": \"Naha\",\"Type\": \"city\",\"Slug\": \"japan/okinawa/naha\",\"Display\": [\"japan\",\"okinawa\",\"naha\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000016",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Hiroshima",
+    "state_abbr": null,
+    "city": "Hiroshima",
+    "display": "Hiroshima, Japan",
+    "location_id": "6100016",
+    "property_name": "Hiroshima House",
+    "property_slug": "hiroshima-house-0016",
+    "property_type_category": "House",
+    "usd_price": 221.24,
+    "occupancy": 1,
+    "bedroom_count": 4,
+    "bathroom_count": 1,
+    "number_of_review": 464,
+    "review_score_general": 3.9,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Laundry",
+      "Parking",
+      "Child Friendly",
+      "Breakfast Included",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        132.4553,
+        34.3853
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050016\",\"Name\": \"Hiroshima\",\"Type\": \"state\",\"Slug\": \"japan/hiroshima\",\"Display\": [\"japan\",\"hiroshima\"]},{\"LocationID\": \"6100016\",\"Name\": \"Hiroshima\",\"Type\": \"city\",\"Slug\": \"japan/hiroshima/hiroshima\",\"Display\": [\"japan\",\"hiroshima\",\"hiroshima\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000017",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Kanagawa",
+    "state_abbr": null,
+    "city": "Yokohama",
+    "display": "Yokohama, Japan",
+    "location_id": "6100017",
+    "property_name": "Yokohama Grand Hostel",
+    "property_slug": "yokohama-grand-hostel-0017",
+    "property_type_category": "Hostel",
+    "usd_price": 333.59,
+    "occupancy": 2,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 365,
+    "review_score_general": 3.9,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Laundry",
+      "Kitchen",
+      "Air Conditioner",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        139.638,
+        35.4437
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050017\",\"Name\": \"Kanagawa\",\"Type\": \"state\",\"Slug\": \"japan/kanagawa\",\"Display\": [\"japan\",\"kanagawa\"]},{\"LocationID\": \"6100017\",\"Name\": \"Yokohama\",\"Type\": \"city\",\"Slug\": \"japan/kanagawa/yokohama\",\"Display\": [\"japan\",\"kanagawa\",\"yokohama\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000018",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Hyogo",
+    "state_abbr": null,
+    "city": "Kobe",
+    "display": "Kobe, Japan",
+    "location_id": "6100018",
+    "property_name": "Kobe Riverside Villa",
+    "property_slug": "kobe-riverside-villa-0018",
+    "property_type_category": "Villa",
+    "usd_price": 231.71,
+    "occupancy": 3,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 463,
+    "review_score_general": 6.7,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Wheelchair Accessible",
+      "Pool",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        135.1955,
+        34.6901
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050018\",\"Name\": \"Hyogo\",\"Type\": \"state\",\"Slug\": \"japan/hyogo\",\"Display\": [\"japan\",\"hyogo\"]},{\"LocationID\": \"6100018\",\"Name\": \"Kobe\",\"Type\": \"city\",\"Slug\": \"japan/hyogo/kobe\",\"Display\": [\"japan\",\"hyogo\",\"kobe\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000019",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Miyagi",
+    "state_abbr": null,
+    "city": "Sendai",
+    "display": "Sendai, Japan",
+    "location_id": "6100019",
+    "property_name": "Sendai Central Hostel",
+    "property_slug": "sendai-central-hostel-0019",
+    "property_type_category": "Hostel",
+    "usd_price": 160.77,
+    "occupancy": 7,
+    "bedroom_count": 5,
+    "bathroom_count": 1,
+    "number_of_review": 400,
+    "review_score_general": 5.2,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Pool",
+      "Pet Friendly",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        140.8721,
+        38.2682
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050019\",\"Name\": \"Miyagi\",\"Type\": \"state\",\"Slug\": \"japan/miyagi\",\"Display\": [\"japan\",\"miyagi\"]},{\"LocationID\": \"6100019\",\"Name\": \"Sendai\",\"Type\": \"city\",\"Slug\": \"japan/miyagi/sendai\",\"Display\": [\"japan\",\"miyagi\",\"sendai\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000020",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Ishikawa",
+    "state_abbr": null,
+    "city": "Kanazawa",
+    "display": "Kanazawa, Japan",
+    "location_id": "6100020",
+    "property_name": "Kanazawa Garden Apartment",
+    "property_slug": "kanazawa-garden-apartment-0020",
+    "property_type_category": "Apartment",
+    "usd_price": 180.94,
+    "occupancy": 6,
+    "bedroom_count": 4,
+    "bathroom_count": 1,
+    "number_of_review": 163,
+    "review_score_general": 8.0,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Internet",
+      "Air Conditioner",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        136.6562,
+        36.5613
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050020\",\"Name\": \"Ishikawa\",\"Type\": \"state\",\"Slug\": \"japan/ishikawa\",\"Display\": [\"japan\",\"ishikawa\"]},{\"LocationID\": \"6100020\",\"Name\": \"Kanazawa\",\"Type\": \"city\",\"Slug\": \"japan/ishikawa/kanazawa\",\"Display\": [\"japan\",\"ishikawa\",\"kanazawa\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000021",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Nagano",
+    "state_abbr": null,
+    "city": "Nagano",
+    "display": "Nagano, Japan",
+    "location_id": "6100021",
+    "property_name": "The Nagano Hotel",
+    "property_slug": "the-nagano-hotel-0021",
+    "property_type_category": "Hotel",
+    "usd_price": 90.04,
+    "occupancy": 7,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 17,
+    "review_score_general": 9.7,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Pool",
+      "Wheelchair Accessible",
+      "Hot Tub",
+      "Gym",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        138.181,
+        36.6513
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050021\",\"Name\": \"Nagano\",\"Type\": \"state\",\"Slug\": \"japan/nagano\",\"Display\": [\"japan\",\"nagano\"]},{\"LocationID\": \"6100021\",\"Name\": \"Nagano\",\"Type\": \"city\",\"Slug\": \"japan/nagano/nagano\",\"Display\": [\"japan\",\"nagano\",\"nagano\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000022",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Kumamoto",
+    "state_abbr": null,
+    "city": "Kumamoto",
+    "display": "Kumamoto, Japan",
+    "location_id": "6100022",
+    "property_name": "Kumamoto Harbor House",
+    "property_slug": "kumamoto-harbor-house-0022",
+    "property_type_category": "House",
+    "usd_price": 25.67,
+    "occupancy": 5,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 421,
+    "review_score_general": 8.6,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Parking",
+      "Kitchen",
+      "Child Friendly",
+      "Breakfast Included",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        130.7417,
+        32.8031
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050022\",\"Name\": \"Kumamoto\",\"Type\": \"state\",\"Slug\": \"japan/kumamoto\",\"Display\": [\"japan\",\"kumamoto\"]},{\"LocationID\": \"6100022\",\"Name\": \"Kumamoto\",\"Type\": \"city\",\"Slug\": \"japan/kumamoto/kumamoto\",\"Display\": [\"japan\",\"kumamoto\",\"kumamoto\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000023",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Shizuoka",
+    "state_abbr": null,
+    "city": "Shizuoka",
+    "display": "Shizuoka, Japan",
+    "location_id": "6100023",
+    "property_name": "Shizuoka Skyline Apartment",
+    "property_slug": "shizuoka-skyline-apartment-0023",
+    "property_type_category": "Apartment",
+    "usd_price": 209.61,
+    "occupancy": 5,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 193,
+    "review_score_general": 8.3,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Internet",
+      "Kitchen",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        138.3831,
+        34.9756
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050023\",\"Name\": \"Shizuoka\",\"Type\": \"state\",\"Slug\": \"japan/shizuoka\",\"Display\": [\"japan\",\"shizuoka\"]},{\"LocationID\": \"6100023\",\"Name\": \"Shizuoka\",\"Type\": \"city\",\"Slug\": \"japan/shizuoka/shizuoka\",\"Display\": [\"japan\",\"shizuoka\",\"shizuoka\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000024",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Gifu",
+    "state_abbr": null,
+    "city": "Takayama",
+    "display": "Takayama, Japan",
+    "location_id": "6100024",
+    "property_name": "Takayama Apartment",
+    "property_slug": "takayama-apartment-0024",
+    "property_type_category": "Apartment",
+    "usd_price": 116.19,
+    "occupancy": 7,
+    "bedroom_count": 1,
+    "bathroom_count": 3,
+    "number_of_review": 95,
+    "review_score_general": 8.7,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Gym",
+      "Parking",
+      "Hot Tub",
+      "Laundry",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        137.252,
+        36.146
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050024\",\"Name\": \"Gifu\",\"Type\": \"state\",\"Slug\": \"japan/gifu\",\"Display\": [\"japan\",\"gifu\"]},{\"LocationID\": \"6100024\",\"Name\": \"Takayama\",\"Type\": \"city\",\"Slug\": \"japan/gifu/takayama\",\"Display\": [\"japan\",\"gifu\",\"takayama\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "BC-1000025",
+    "feed": 11,
+    "country": "Japan",
+    "country_code": "JP",
+    "state": "Yamanashi",
+    "state_abbr": null,
+    "city": "Kawaguchiko",
+    "display": "Kawaguchiko, Japan",
+    "location_id": "6100025",
+    "property_name": "Kawaguchiko Grand Apartment",
+    "property_slug": "kawaguchiko-grand-apartment-0025",
+    "property_type_category": "Apartment",
+    "usd_price": 123.9,
+    "occupancy": 5,
+    "bedroom_count": 1,
+    "bathroom_count": 2,
+    "number_of_review": 312,
+    "review_score_general": 3.5,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Pet Friendly",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        138.757,
+        35.4981
+      ]
+    },
+    "categories": "[{\"LocationID\": \"89\",\"Name\": \"Japan\",\"Type\": \"country\",\"Slug\": \"japan\",\"Display\": [\"japan\"]},{\"LocationID\": \"6050025\",\"Name\": \"Yamanashi\",\"Type\": \"state\",\"Slug\": \"japan/yamanashi\",\"Display\": [\"japan\",\"yamanashi\"]},{\"LocationID\": \"6100025\",\"Name\": \"Kawaguchiko\",\"Type\": \"city\",\"Slug\": \"japan/yamanashi/kawaguchiko\",\"Display\": [\"japan\",\"yamanashi\",\"kawaguchiko\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000001",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "New York",
+    "state_abbr": "NY",
+    "city": "New York",
+    "display": "New York, United States",
+    "location_id": "7200001",
+    "property_name": "New York Grand Hotel",
+    "property_slug": "new-york-grand-hotel-0001",
+    "property_type_category": "Hotel",
+    "usd_price": 264.49,
+    "occupancy": 4,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 439,
+    "review_score_general": 9.2,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Pet Friendly",
+      "Laundry",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -74.006,
+        40.7128
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050001\",\"Name\": \"New York\",\"Type\": \"state\",\"Slug\": \"united-states/new-york\",\"Display\": [\"united-states\",\"new-york\"]},{\"LocationID\": \"7200001\",\"Name\": \"New York\",\"Type\": \"city\",\"Slug\": \"united-states/new-york/new-york\",\"Display\": [\"united-states\",\"new-york\",\"new-york\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000002",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "California",
+    "state_abbr": "CA",
+    "city": "Los Angeles",
+    "display": "Los Angeles, United States",
+    "location_id": "7200002",
+    "property_name": "Los Angeles Riverside Hotel",
+    "property_slug": "los-angeles-riverside-hotel-0002",
+    "property_type_category": "Hotel",
+    "usd_price": 218.12,
+    "occupancy": 5,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 470,
+    "review_score_general": 7.4,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Hot Tub",
+      "Pet Friendly",
+      "Breakfast Included",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -118.2437,
+        34.0522
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050002\",\"Name\": \"California\",\"Type\": \"state\",\"Slug\": \"united-states/california\",\"Display\": [\"united-states\",\"california\"]},{\"LocationID\": \"7200002\",\"Name\": \"Los Angeles\",\"Type\": \"city\",\"Slug\": \"united-states/california/los-angeles\",\"Display\": [\"united-states\",\"california\",\"los-angeles\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000003",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "California",
+    "state_abbr": "CA",
+    "city": "San Francisco",
+    "display": "San Francisco, United States",
+    "location_id": "7200003",
+    "property_name": "San Francisco Central House",
+    "property_slug": "san-francisco-central-house-0003",
+    "property_type_category": "House",
+    "usd_price": 112.12,
+    "occupancy": 1,
+    "bedroom_count": 3,
+    "bathroom_count": 1,
+    "number_of_review": 135,
+    "review_score_general": 8.5,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Pool",
+      "Wheelchair Accessible",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -122.4194,
+        37.7749
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050002\",\"Name\": \"California\",\"Type\": \"state\",\"Slug\": \"united-states/california\",\"Display\": [\"united-states\",\"california\"]},{\"LocationID\": \"7200003\",\"Name\": \"San Francisco\",\"Type\": \"city\",\"Slug\": \"united-states/california/san-francisco\",\"Display\": [\"united-states\",\"california\",\"san-francisco\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000004",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Illinois",
+    "state_abbr": "IL",
+    "city": "Chicago",
+    "display": "Chicago, United States",
+    "location_id": "7200004",
+    "property_name": "Chicago Garden Hostel",
+    "property_slug": "chicago-garden-hostel-0004",
+    "property_type_category": "Hostel",
+    "usd_price": 270.34,
+    "occupancy": 1,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 92,
+    "review_score_general": 6.5,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Kitchen",
+      "Pet Friendly",
+      "Wheelchair Accessible",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -87.6298,
+        41.8781
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050003\",\"Name\": \"Illinois\",\"Type\": \"state\",\"Slug\": \"united-states/illinois\",\"Display\": [\"united-states\",\"illinois\"]},{\"LocationID\": \"7200004\",\"Name\": \"Chicago\",\"Type\": \"city\",\"Slug\": \"united-states/illinois/chicago\",\"Display\": [\"united-states\",\"illinois\",\"chicago\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000005",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Florida",
+    "state_abbr": "FL",
+    "city": "Miami",
+    "display": "Miami, United States",
+    "location_id": "7200005",
+    "property_name": "The Miami Hostel",
+    "property_slug": "the-miami-hostel-0005",
+    "property_type_category": "Hostel",
+    "usd_price": 330.92,
+    "occupancy": 3,
+    "bedroom_count": 5,
+    "bathroom_count": 1,
+    "number_of_review": 335,
+    "review_score_general": 6.9,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Internet",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -80.1918,
+        25.7617
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050004\",\"Name\": \"Florida\",\"Type\": \"state\",\"Slug\": \"united-states/florida\",\"Display\": [\"united-states\",\"florida\"]},{\"LocationID\": \"7200005\",\"Name\": \"Miami\",\"Type\": \"city\",\"Slug\": \"united-states/florida/miami\",\"Display\": [\"united-states\",\"florida\",\"miami\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000006",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Texas",
+    "state_abbr": "TX",
+    "city": "Austin",
+    "display": "Austin, United States",
+    "location_id": "7200006",
+    "property_name": "Austin Harbor Apartment",
+    "property_slug": "austin-harbor-apartment-0006",
+    "property_type_category": "Apartment",
+    "usd_price": 63.76,
+    "occupancy": 5,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 14,
+    "review_score_general": 8.9,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Gym",
+      "Child Friendly",
+      "Wheelchair Accessible",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -97.7431,
+        30.2672
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050005\",\"Name\": \"Texas\",\"Type\": \"state\",\"Slug\": \"united-states/texas\",\"Display\": [\"united-states\",\"texas\"]},{\"LocationID\": \"7200006\",\"Name\": \"Austin\",\"Type\": \"city\",\"Slug\": \"united-states/texas/austin\",\"Display\": [\"united-states\",\"texas\",\"austin\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000007",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Texas",
+    "state_abbr": "TX",
+    "city": "Houston",
+    "display": "Houston, United States",
+    "location_id": "7200007",
+    "property_name": "Houston Skyline Villa",
+    "property_slug": "houston-skyline-villa-0007",
+    "property_type_category": "Villa",
+    "usd_price": 116.0,
+    "occupancy": 8,
+    "bedroom_count": 4,
+    "bathroom_count": 1,
+    "number_of_review": 469,
+    "review_score_general": 6.7,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Hot Tub",
+      "Pool",
+      "Parking",
+      "Air Conditioner",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -95.3698,
+        29.7604
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050005\",\"Name\": \"Texas\",\"Type\": \"state\",\"Slug\": \"united-states/texas\",\"Display\": [\"united-states\",\"texas\"]},{\"LocationID\": \"7200007\",\"Name\": \"Houston\",\"Type\": \"city\",\"Slug\": \"united-states/texas/houston\",\"Display\": [\"united-states\",\"texas\",\"houston\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000008",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Washington",
+    "state_abbr": "WA",
+    "city": "Seattle",
+    "display": "Seattle, United States",
+    "location_id": "7200008",
+    "property_name": "Seattle Apartment",
+    "property_slug": "seattle-apartment-0008",
+    "property_type_category": "Apartment",
+    "usd_price": 286.71,
+    "occupancy": 4,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 271,
+    "review_score_general": 7.1,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Gym",
+      "Kitchen",
+      "Hot Tub",
+      "Breakfast Included",
+      "Laundry"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -122.3321,
+        47.6062
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050006\",\"Name\": \"Washington\",\"Type\": \"state\",\"Slug\": \"united-states/washington\",\"Display\": [\"united-states\",\"washington\"]},{\"LocationID\": \"7200008\",\"Name\": \"Seattle\",\"Type\": \"city\",\"Slug\": \"united-states/washington/seattle\",\"Display\": [\"united-states\",\"washington\",\"seattle\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000009",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Colorado",
+    "state_abbr": "CO",
+    "city": "Denver",
+    "display": "Denver, United States",
+    "location_id": "7200009",
+    "property_name": "Denver Grand Hostel",
+    "property_slug": "denver-grand-hostel-0009",
+    "property_type_category": "Hostel",
+    "usd_price": 316.49,
+    "occupancy": 1,
+    "bedroom_count": 4,
+    "bathroom_count": 3,
+    "number_of_review": 386,
+    "review_score_general": 3.2,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Kitchen",
+      "Gym",
+      "Air Conditioner",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -104.9903,
+        39.7392
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050007\",\"Name\": \"Colorado\",\"Type\": \"state\",\"Slug\": \"united-states/colorado\",\"Display\": [\"united-states\",\"colorado\"]},{\"LocationID\": \"7200009\",\"Name\": \"Denver\",\"Type\": \"city\",\"Slug\": \"united-states/colorado/denver\",\"Display\": [\"united-states\",\"colorado\",\"denver\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000010",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Massachusetts",
+    "state_abbr": "MA",
+    "city": "Boston",
+    "display": "Boston, United States",
+    "location_id": "7200010",
+    "property_name": "Boston Riverside House",
+    "property_slug": "boston-riverside-house-0010",
+    "property_type_category": "House",
+    "usd_price": 78.84,
+    "occupancy": 3,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 446,
+    "review_score_general": 3.9,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Pool",
+      "Pet Friendly",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -71.0589,
+        42.3601
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050008\",\"Name\": \"Massachusetts\",\"Type\": \"state\",\"Slug\": \"united-states/massachusetts\",\"Display\": [\"united-states\",\"massachusetts\"]},{\"LocationID\": \"7200010\",\"Name\": \"Boston\",\"Type\": \"city\",\"Slug\": \"united-states/massachusetts/boston\",\"Display\": [\"united-states\",\"massachusetts\",\"boston\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000011",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Nevada",
+    "state_abbr": "NV",
+    "city": "Las Vegas",
+    "display": "Las Vegas, United States",
+    "location_id": "7200011",
+    "property_name": "Las Vegas Central Hostel",
+    "property_slug": "las-vegas-central-hostel-0011",
+    "property_type_category": "Hostel",
+    "usd_price": 53.58,
+    "occupancy": 2,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 398,
+    "review_score_general": 8.9,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Child Friendly",
+      "Wheelchair Accessible",
+      "Kitchen",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -115.1398,
+        36.1699
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050009\",\"Name\": \"Nevada\",\"Type\": \"state\",\"Slug\": \"united-states/nevada\",\"Display\": [\"united-states\",\"nevada\"]},{\"LocationID\": \"7200011\",\"Name\": \"Las Vegas\",\"Type\": \"city\",\"Slug\": \"united-states/nevada/las-vegas\",\"Display\": [\"united-states\",\"nevada\",\"las-vegas\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000012",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Georgia",
+    "state_abbr": "GA",
+    "city": "Atlanta",
+    "display": "Atlanta, United States",
+    "location_id": "7200012",
+    "property_name": "Atlanta Garden Hotel",
+    "property_slug": "atlanta-garden-hotel-0012",
+    "property_type_category": "Hotel",
+    "usd_price": 177.93,
+    "occupancy": 6,
+    "bedroom_count": 2,
+    "bathroom_count": 2,
+    "number_of_review": 392,
+    "review_score_general": 5.9,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Child Friendly",
+      "Hot Tub",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -84.388,
+        33.749
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050010\",\"Name\": \"Georgia\",\"Type\": \"state\",\"Slug\": \"united-states/georgia\",\"Display\": [\"united-states\",\"georgia\"]},{\"LocationID\": \"7200012\",\"Name\": \"Atlanta\",\"Type\": \"city\",\"Slug\": \"united-states/georgia/atlanta\",\"Display\": [\"united-states\",\"georgia\",\"atlanta\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000013",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Arizona",
+    "state_abbr": "AZ",
+    "city": "Phoenix",
+    "display": "Phoenix, United States",
+    "location_id": "7200013",
+    "property_name": "The Phoenix Apartment",
+    "property_slug": "the-phoenix-apartment-0013",
+    "property_type_category": "Apartment",
+    "usd_price": 30.38,
+    "occupancy": 7,
+    "bedroom_count": 4,
+    "bathroom_count": 3,
+    "number_of_review": 203,
+    "review_score_general": 3.3,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Kitchen",
+      "Breakfast Included",
+      "Pet Friendly",
+      "Child Friendly",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -112.074,
+        33.4484
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050011\",\"Name\": \"Arizona\",\"Type\": \"state\",\"Slug\": \"united-states/arizona\",\"Display\": [\"united-states\",\"arizona\"]},{\"LocationID\": \"7200013\",\"Name\": \"Phoenix\",\"Type\": \"city\",\"Slug\": \"united-states/arizona/phoenix\",\"Display\": [\"united-states\",\"arizona\",\"phoenix\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000014",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Oregon",
+    "state_abbr": "OR",
+    "city": "Portland",
+    "display": "Portland, United States",
+    "location_id": "7200014",
+    "property_name": "Portland Harbor Villa",
+    "property_slug": "portland-harbor-villa-0014",
+    "property_type_category": "Villa",
+    "usd_price": 176.96,
+    "occupancy": 6,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 481,
+    "review_score_general": 3.7,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Kitchen",
+      "Gym",
+      "Laundry",
+      "Internet",
+      "Breakfast Included",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -122.6784,
+        45.5152
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050012\",\"Name\": \"Oregon\",\"Type\": \"state\",\"Slug\": \"united-states/oregon\",\"Display\": [\"united-states\",\"oregon\"]},{\"LocationID\": \"7200014\",\"Name\": \"Portland\",\"Type\": \"city\",\"Slug\": \"united-states/oregon/portland\",\"Display\": [\"united-states\",\"oregon\",\"portland\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000015",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Tennessee",
+    "state_abbr": "TN",
+    "city": "Nashville",
+    "display": "Nashville, United States",
+    "location_id": "7200015",
+    "property_name": "Nashville Skyline Hostel",
+    "property_slug": "nashville-skyline-hostel-0015",
+    "property_type_category": "Hostel",
+    "usd_price": 239.07,
+    "occupancy": 3,
+    "bedroom_count": 4,
+    "bathroom_count": 3,
+    "number_of_review": 294,
+    "review_score_general": 3.2,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Parking",
+      "Gym",
+      "Breakfast Included"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -86.7816,
+        36.1627
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050013\",\"Name\": \"Tennessee\",\"Type\": \"state\",\"Slug\": \"united-states/tennessee\",\"Display\": [\"united-states\",\"tennessee\"]},{\"LocationID\": \"7200015\",\"Name\": \"Nashville\",\"Type\": \"city\",\"Slug\": \"united-states/tennessee/nashville\",\"Display\": [\"united-states\",\"tennessee\",\"nashville\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000016",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Louisiana",
+    "state_abbr": "LA",
+    "city": "New Orleans",
+    "display": "New Orleans, United States",
+    "location_id": "7200016",
+    "property_name": "New Orleans House",
+    "property_slug": "new-orleans-house-0016",
+    "property_type_category": "House",
+    "usd_price": 219.9,
+    "occupancy": 3,
+    "bedroom_count": 3,
+    "bathroom_count": 1,
+    "number_of_review": 346,
+    "review_score_general": 8.7,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Laundry",
+      "Breakfast Included",
+      "Pet Friendly",
+      "Parking",
+      "Kitchen",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -90.0715,
+        29.9511
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050014\",\"Name\": \"Louisiana\",\"Type\": \"state\",\"Slug\": \"united-states/louisiana\",\"Display\": [\"united-states\",\"louisiana\"]},{\"LocationID\": \"7200016\",\"Name\": \"New Orleans\",\"Type\": \"city\",\"Slug\": \"united-states/louisiana/new-orleans\",\"Display\": [\"united-states\",\"louisiana\",\"new-orleans\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000017",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Pennsylvania",
+    "state_abbr": "PA",
+    "city": "Philadelphia",
+    "display": "Philadelphia, United States",
+    "location_id": "7200017",
+    "property_name": "Philadelphia Grand Villa",
+    "property_slug": "philadelphia-grand-villa-0017",
+    "property_type_category": "Villa",
+    "usd_price": 66.91,
+    "occupancy": 1,
+    "bedroom_count": 5,
+    "bathroom_count": 2,
+    "number_of_review": 416,
+    "review_score_general": 6.7,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Gym",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -75.1652,
+        39.9526
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050015\",\"Name\": \"Pennsylvania\",\"Type\": \"state\",\"Slug\": \"united-states/pennsylvania\",\"Display\": [\"united-states\",\"pennsylvania\"]},{\"LocationID\": \"7200017\",\"Name\": \"Philadelphia\",\"Type\": \"city\",\"Slug\": \"united-states/pennsylvania/philadelphia\",\"Display\": [\"united-states\",\"pennsylvania\",\"philadelphia\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000018",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "District of Columbia",
+    "state_abbr": "DC",
+    "city": "Washington",
+    "display": "Washington, United States",
+    "location_id": "7200018",
+    "property_name": "Washington Riverside Villa",
+    "property_slug": "washington-riverside-villa-0018",
+    "property_type_category": "Villa",
+    "usd_price": 95.73,
+    "occupancy": 5,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 316,
+    "review_score_general": 8.5,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Wheelchair Accessible",
+      "Child Friendly",
+      "Parking",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -77.0369,
+        38.9072
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050016\",\"Name\": \"District of Columbia\",\"Type\": \"state\",\"Slug\": \"united-states/dc\",\"Display\": [\"united-states\",\"dc\"]},{\"LocationID\": \"7200018\",\"Name\": \"Washington\",\"Type\": \"city\",\"Slug\": \"united-states/dc/washington\",\"Display\": [\"united-states\",\"dc\",\"washington\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000019",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Hawaii",
+    "state_abbr": "HI",
+    "city": "Honolulu",
+    "display": "Honolulu, United States",
+    "location_id": "7200019",
+    "property_name": "Honolulu Central Hotel",
+    "property_slug": "honolulu-central-hotel-0019",
+    "property_type_category": "Hotel",
+    "usd_price": 299.51,
+    "occupancy": 7,
+    "bedroom_count": 4,
+    "bathroom_count": 2,
+    "number_of_review": 451,
+    "review_score_general": 7.7,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Parking",
+      "Pool",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -157.8583,
+        21.3069
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050017\",\"Name\": \"Hawaii\",\"Type\": \"state\",\"Slug\": \"united-states/hawaii\",\"Display\": [\"united-states\",\"hawaii\"]},{\"LocationID\": \"7200019\",\"Name\": \"Honolulu\",\"Type\": \"city\",\"Slug\": \"united-states/hawaii/honolulu\",\"Display\": [\"united-states\",\"hawaii\",\"honolulu\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000020",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Michigan",
+    "state_abbr": "MI",
+    "city": "Detroit",
+    "display": "Detroit, United States",
+    "location_id": "7200020",
+    "property_name": "Detroit Garden Resort",
+    "property_slug": "detroit-garden-resort-0020",
+    "property_type_category": "Resort",
+    "usd_price": 73.85,
+    "occupancy": 4,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 117,
+    "review_score_general": 4.3,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Pool",
+      "Hot Tub",
+      "Child Friendly",
+      "Air Conditioner",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -83.0458,
+        42.3314
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050018\",\"Name\": \"Michigan\",\"Type\": \"state\",\"Slug\": \"united-states/michigan\",\"Display\": [\"united-states\",\"michigan\"]},{\"LocationID\": \"7200020\",\"Name\": \"Detroit\",\"Type\": \"city\",\"Slug\": \"united-states/michigan/detroit\",\"Display\": [\"united-states\",\"michigan\",\"detroit\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000021",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Minnesota",
+    "state_abbr": "MN",
+    "city": "Minneapolis",
+    "display": "Minneapolis, United States",
+    "location_id": "7200021",
+    "property_name": "The Minneapolis Resort",
+    "property_slug": "the-minneapolis-resort-0021",
+    "property_type_category": "Resort",
+    "usd_price": 252.99,
+    "occupancy": 4,
+    "bedroom_count": 4,
+    "bathroom_count": 2,
+    "number_of_review": 95,
+    "review_score_general": 5.3,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Internet",
+      "Laundry",
+      "Child Friendly",
+      "Parking",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -93.265,
+        44.9778
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050019\",\"Name\": \"Minnesota\",\"Type\": \"state\",\"Slug\": \"united-states/minnesota\",\"Display\": [\"united-states\",\"minnesota\"]},{\"LocationID\": \"7200021\",\"Name\": \"Minneapolis\",\"Type\": \"city\",\"Slug\": \"united-states/minnesota/minneapolis\",\"Display\": [\"united-states\",\"minnesota\",\"minneapolis\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000022",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Utah",
+    "state_abbr": "UT",
+    "city": "Salt Lake City",
+    "display": "Salt Lake City, United States",
+    "location_id": "7200022",
+    "property_name": "Salt Lake City Harbor House",
+    "property_slug": "salt-lake-city-harbor-house-0022",
+    "property_type_category": "House",
+    "usd_price": 91.5,
+    "occupancy": 7,
+    "bedroom_count": 1,
+    "bathroom_count": 2,
+    "number_of_review": 275,
+    "review_score_general": 8.6,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Child Friendly",
+      "Laundry",
+      "Parking",
+      "Gym",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -111.891,
+        40.7608
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050020\",\"Name\": \"Utah\",\"Type\": \"state\",\"Slug\": \"united-states/utah\",\"Display\": [\"united-states\",\"utah\"]},{\"LocationID\": \"7200022\",\"Name\": \"Salt Lake City\",\"Type\": \"city\",\"Slug\": \"united-states/utah/salt-lake-city\",\"Display\": [\"united-states\",\"utah\",\"salt-lake-city\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000023",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "North Carolina",
+    "state_abbr": "NC",
+    "city": "Charlotte",
+    "display": "Charlotte, United States",
+    "location_id": "7200023",
+    "property_name": "Charlotte Skyline Hostel",
+    "property_slug": "charlotte-skyline-hostel-0023",
+    "property_type_category": "Hostel",
+    "usd_price": 301.38,
+    "occupancy": 6,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 260,
+    "review_score_general": 9.8,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Child Friendly",
+      "Wheelchair Accessible",
+      "Internet",
+      "Breakfast Included",
+      "Gym"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -80.8431,
+        35.2271
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050021\",\"Name\": \"North Carolina\",\"Type\": \"state\",\"Slug\": \"united-states/north-carolina\",\"Display\": [\"united-states\",\"north-carolina\"]},{\"LocationID\": \"7200023\",\"Name\": \"Charlotte\",\"Type\": \"city\",\"Slug\": \"united-states/north-carolina/charlotte\",\"Display\": [\"united-states\",\"north-carolina\",\"charlotte\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000024",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "Ohio",
+    "state_abbr": "OH",
+    "city": "Columbus",
+    "display": "Columbus, United States",
+    "location_id": "7200024",
+    "property_name": "Columbus Hostel",
+    "property_slug": "columbus-hostel-0024",
+    "property_type_category": "Hostel",
+    "usd_price": 237.75,
+    "occupancy": 5,
+    "bedroom_count": 1,
+    "bathroom_count": 3,
+    "number_of_review": 75,
+    "review_score_general": 8.8,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Wheelchair Accessible",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -82.9988,
+        39.9612
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050022\",\"Name\": \"Ohio\",\"Type\": \"state\",\"Slug\": \"united-states/ohio\",\"Display\": [\"united-states\",\"ohio\"]},{\"LocationID\": \"7200024\",\"Name\": \"Columbus\",\"Type\": \"city\",\"Slug\": \"united-states/ohio/columbus\",\"Display\": [\"united-states\",\"ohio\",\"columbus\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HA-2000025",
+    "feed": 12,
+    "country": "United States",
+    "country_code": "US",
+    "state": "New Jersey",
+    "state_abbr": "NJ",
+    "city": "Jersey City",
+    "display": "Jersey City, United States",
+    "location_id": "7200025",
+    "property_name": "Jersey City Grand Villa",
+    "property_slug": "jersey-city-grand-villa-0025",
+    "property_type_category": "Villa",
+    "usd_price": 158.39,
+    "occupancy": 5,
+    "bedroom_count": 1,
+    "bathroom_count": 2,
+    "number_of_review": 238,
+    "review_score_general": 8.0,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Laundry",
+      "Parking",
+      "Breakfast Included",
+      "Gym",
+      "Air Conditioner",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -74.0431,
+        40.7178
+      ]
+    },
+    "categories": "[{\"LocationID\": \"90\",\"Name\": \"United States\",\"Type\": \"country\",\"Slug\": \"united-states\",\"Display\": [\"united-states\"]},{\"LocationID\": \"7050023\",\"Name\": \"New Jersey\",\"Type\": \"state\",\"Slug\": \"united-states/new-jersey\",\"Display\": [\"united-states\",\"new-jersey\"]},{\"LocationID\": \"7200025\",\"Name\": \"Jersey City\",\"Type\": \"city\",\"Slug\": \"united-states/new-jersey/jersey-city\",\"Display\": [\"united-states\",\"new-jersey\",\"jersey-city\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000001",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Ontario",
+    "state_abbr": "ON",
+    "city": "Toronto",
+    "display": "Toronto, Canada",
+    "location_id": "8200001",
+    "property_name": "Toronto Grand Villa",
+    "property_slug": "toronto-grand-villa-0001",
+    "property_type_category": "Villa",
+    "usd_price": 330.64,
+    "occupancy": 3,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 213,
+    "review_score_general": 5.8,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Hot Tub",
+      "Pool",
+      "Laundry",
+      "Breakfast Included",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -79.3832,
+        43.6532
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050001\",\"Name\": \"Ontario\",\"Type\": \"state\",\"Slug\": \"canada/ontario\",\"Display\": [\"canada\",\"ontario\"]},{\"LocationID\": \"8200001\",\"Name\": \"Toronto\",\"Type\": \"city\",\"Slug\": \"canada/ontario/toronto\",\"Display\": [\"canada\",\"ontario\",\"toronto\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000002",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Ontario",
+    "state_abbr": "ON",
+    "city": "Ottawa",
+    "display": "Ottawa, Canada",
+    "location_id": "8200002",
+    "property_name": "Ottawa Riverside Resort",
+    "property_slug": "ottawa-riverside-resort-0002",
+    "property_type_category": "Resort",
+    "usd_price": 254.93,
+    "occupancy": 2,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 498,
+    "review_score_general": 8.5,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Child Friendly",
+      "Breakfast Included",
+      "Internet",
+      "Air Conditioner",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -75.6972,
+        45.4215
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050001\",\"Name\": \"Ontario\",\"Type\": \"state\",\"Slug\": \"canada/ontario\",\"Display\": [\"canada\",\"ontario\"]},{\"LocationID\": \"8200002\",\"Name\": \"Ottawa\",\"Type\": \"city\",\"Slug\": \"canada/ontario/ottawa\",\"Display\": [\"canada\",\"ontario\",\"ottawa\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000003",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "British Columbia",
+    "state_abbr": "BC",
+    "city": "Vancouver",
+    "display": "Vancouver, Canada",
+    "location_id": "8200003",
+    "property_name": "Vancouver Central Resort",
+    "property_slug": "vancouver-central-resort-0003",
+    "property_type_category": "Resort",
+    "usd_price": 48.04,
+    "occupancy": 4,
+    "bedroom_count": 4,
+    "bathroom_count": 3,
+    "number_of_review": 500,
+    "review_score_general": 4.3,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Gym",
+      "Hot Tub",
+      "Child Friendly",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -123.1207,
+        49.2827
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050002\",\"Name\": \"British Columbia\",\"Type\": \"state\",\"Slug\": \"canada/british-columbia\",\"Display\": [\"canada\",\"british-columbia\"]},{\"LocationID\": \"8200003\",\"Name\": \"Vancouver\",\"Type\": \"city\",\"Slug\": \"canada/british-columbia/vancouver\",\"Display\": [\"canada\",\"british-columbia\",\"vancouver\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000004",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "British Columbia",
+    "state_abbr": "BC",
+    "city": "Victoria",
+    "display": "Victoria, Canada",
+    "location_id": "8200004",
+    "property_name": "Victoria Garden Villa",
+    "property_slug": "victoria-garden-villa-0004",
+    "property_type_category": "Villa",
+    "usd_price": 146.35,
+    "occupancy": 5,
+    "bedroom_count": 1,
+    "bathroom_count": 2,
+    "number_of_review": 335,
+    "review_score_general": 3.4,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Internet",
+      "Pool",
+      "Child Friendly",
+      "Laundry",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -123.3656,
+        48.4284
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050002\",\"Name\": \"British Columbia\",\"Type\": \"state\",\"Slug\": \"canada/british-columbia\",\"Display\": [\"canada\",\"british-columbia\"]},{\"LocationID\": \"8200004\",\"Name\": \"Victoria\",\"Type\": \"city\",\"Slug\": \"canada/british-columbia/victoria\",\"Display\": [\"canada\",\"british-columbia\",\"victoria\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000005",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Quebec",
+    "state_abbr": "QC",
+    "city": "Montreal",
+    "display": "Montreal, Canada",
+    "location_id": "8200005",
+    "property_name": "The Montreal Villa",
+    "property_slug": "the-montreal-villa-0005",
+    "property_type_category": "Villa",
+    "usd_price": 140.49,
+    "occupancy": 1,
+    "bedroom_count": 1,
+    "bathroom_count": 2,
+    "number_of_review": 101,
+    "review_score_general": 8.8,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Internet",
+      "Parking",
+      "Pet Friendly",
+      "Child Friendly",
+      "Breakfast Included",
+      "Laundry"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -73.5673,
+        45.5017
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050003\",\"Name\": \"Quebec\",\"Type\": \"state\",\"Slug\": \"canada/quebec\",\"Display\": [\"canada\",\"quebec\"]},{\"LocationID\": \"8200005\",\"Name\": \"Montreal\",\"Type\": \"city\",\"Slug\": \"canada/quebec/montreal\",\"Display\": [\"canada\",\"quebec\",\"montreal\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000006",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Quebec",
+    "state_abbr": "QC",
+    "city": "Quebec City",
+    "display": "Quebec City, Canada",
+    "location_id": "8200006",
+    "property_name": "Quebec City Harbor Resort",
+    "property_slug": "quebec-city-harbor-resort-0006",
+    "property_type_category": "Resort",
+    "usd_price": 333.07,
+    "occupancy": 4,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 469,
+    "review_score_general": 3.4,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Gym",
+      "Child Friendly",
+      "Internet",
+      "Kitchen",
+      "Air Conditioner",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -71.208,
+        46.8139
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050003\",\"Name\": \"Quebec\",\"Type\": \"state\",\"Slug\": \"canada/quebec\",\"Display\": [\"canada\",\"quebec\"]},{\"LocationID\": \"8200006\",\"Name\": \"Quebec City\",\"Type\": \"city\",\"Slug\": \"canada/quebec/quebec-city\",\"Display\": [\"canada\",\"quebec\",\"quebec-city\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000007",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Alberta",
+    "state_abbr": "AB",
+    "city": "Calgary",
+    "display": "Calgary, Canada",
+    "location_id": "8200007",
+    "property_name": "Calgary Skyline Resort",
+    "property_slug": "calgary-skyline-resort-0007",
+    "property_type_category": "Resort",
+    "usd_price": 310.63,
+    "occupancy": 7,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 287,
+    "review_score_general": 9.3,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Hot Tub",
+      "Breakfast Included",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -114.0719,
+        51.0447
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050004\",\"Name\": \"Alberta\",\"Type\": \"state\",\"Slug\": \"canada/alberta\",\"Display\": [\"canada\",\"alberta\"]},{\"LocationID\": \"8200007\",\"Name\": \"Calgary\",\"Type\": \"city\",\"Slug\": \"canada/alberta/calgary\",\"Display\": [\"canada\",\"alberta\",\"calgary\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000008",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Alberta",
+    "state_abbr": "AB",
+    "city": "Edmonton",
+    "display": "Edmonton, Canada",
+    "location_id": "8200008",
+    "property_name": "Edmonton Hostel",
+    "property_slug": "edmonton-hostel-0008",
+    "property_type_category": "Hostel",
+    "usd_price": 43.08,
+    "occupancy": 4,
+    "bedroom_count": 1,
+    "bathroom_count": 3,
+    "number_of_review": 98,
+    "review_score_general": 4.0,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Hot Tub",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -113.4938,
+        53.5461
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050004\",\"Name\": \"Alberta\",\"Type\": \"state\",\"Slug\": \"canada/alberta\",\"Display\": [\"canada\",\"alberta\"]},{\"LocationID\": \"8200008\",\"Name\": \"Edmonton\",\"Type\": \"city\",\"Slug\": \"canada/alberta/edmonton\",\"Display\": [\"canada\",\"alberta\",\"edmonton\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000009",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Manitoba",
+    "state_abbr": "MB",
+    "city": "Winnipeg",
+    "display": "Winnipeg, Canada",
+    "location_id": "8200009",
+    "property_name": "Winnipeg Grand Villa",
+    "property_slug": "winnipeg-grand-villa-0009",
+    "property_type_category": "Villa",
+    "usd_price": 307.77,
+    "occupancy": 3,
+    "bedroom_count": 5,
+    "bathroom_count": 1,
+    "number_of_review": 209,
+    "review_score_general": 3.5,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Hot Tub",
+      "Laundry",
+      "Wheelchair Accessible",
+      "Gym"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -97.1384,
+        49.8951
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050005\",\"Name\": \"Manitoba\",\"Type\": \"state\",\"Slug\": \"canada/manitoba\",\"Display\": [\"canada\",\"manitoba\"]},{\"LocationID\": \"8200009\",\"Name\": \"Winnipeg\",\"Type\": \"city\",\"Slug\": \"canada/manitoba/winnipeg\",\"Display\": [\"canada\",\"manitoba\",\"winnipeg\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000010",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Saskatchewan",
+    "state_abbr": "SK",
+    "city": "Saskatoon",
+    "display": "Saskatoon, Canada",
+    "location_id": "8200010",
+    "property_name": "Saskatoon Riverside Apartment",
+    "property_slug": "saskatoon-riverside-apartment-0010",
+    "property_type_category": "Apartment",
+    "usd_price": 181.87,
+    "occupancy": 2,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 231,
+    "review_score_general": 8.3,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Laundry",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -106.67,
+        52.1332
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050006\",\"Name\": \"Saskatchewan\",\"Type\": \"state\",\"Slug\": \"canada/saskatchewan\",\"Display\": [\"canada\",\"saskatchewan\"]},{\"LocationID\": \"8200010\",\"Name\": \"Saskatoon\",\"Type\": \"city\",\"Slug\": \"canada/saskatchewan/saskatoon\",\"Display\": [\"canada\",\"saskatchewan\",\"saskatoon\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000011",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Nova Scotia",
+    "state_abbr": "NS",
+    "city": "Halifax",
+    "display": "Halifax, Canada",
+    "location_id": "8200011",
+    "property_name": "Halifax Central Villa",
+    "property_slug": "halifax-central-villa-0011",
+    "property_type_category": "Villa",
+    "usd_price": 309.13,
+    "occupancy": 2,
+    "bedroom_count": 4,
+    "bathroom_count": 2,
+    "number_of_review": 282,
+    "review_score_general": 7.9,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Gym",
+      "Wheelchair Accessible",
+      "Kitchen",
+      "Air Conditioner",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -63.5752,
+        44.6488
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050007\",\"Name\": \"Nova Scotia\",\"Type\": \"state\",\"Slug\": \"canada/nova-scotia\",\"Display\": [\"canada\",\"nova-scotia\"]},{\"LocationID\": \"8200011\",\"Name\": \"Halifax\",\"Type\": \"city\",\"Slug\": \"canada/nova-scotia/halifax\",\"Display\": [\"canada\",\"nova-scotia\",\"halifax\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000012",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "New Brunswick",
+    "state_abbr": "NB",
+    "city": "Moncton",
+    "display": "Moncton, Canada",
+    "location_id": "8200012",
+    "property_name": "Moncton Garden Hotel",
+    "property_slug": "moncton-garden-hotel-0012",
+    "property_type_category": "Hotel",
+    "usd_price": 209.14,
+    "occupancy": 7,
+    "bedroom_count": 5,
+    "bathroom_count": 3,
+    "number_of_review": 259,
+    "review_score_general": 9.1,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Parking",
+      "Internet",
+      "Wheelchair Accessible",
+      "Hot Tub",
+      "Gym"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -64.7782,
+        46.0878
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050008\",\"Name\": \"New Brunswick\",\"Type\": \"state\",\"Slug\": \"canada/new-brunswick\",\"Display\": [\"canada\",\"new-brunswick\"]},{\"LocationID\": \"8200012\",\"Name\": \"Moncton\",\"Type\": \"city\",\"Slug\": \"canada/new-brunswick/moncton\",\"Display\": [\"canada\",\"new-brunswick\",\"moncton\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000013",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Newfoundland and Labrador",
+    "state_abbr": "NL",
+    "city": "St. Johns",
+    "display": "St. Johns, Canada",
+    "location_id": "8200013",
+    "property_name": "The St. Johns Hotel",
+    "property_slug": "the-st-johns-hotel-0013",
+    "property_type_category": "Hotel",
+    "usd_price": 280.91,
+    "occupancy": 7,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 426,
+    "review_score_general": 3.6,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Laundry",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -52.7126,
+        47.5615
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050009\",\"Name\": \"Newfoundland and Labrador\",\"Type\": \"state\",\"Slug\": \"canada/newfoundland\",\"Display\": [\"canada\",\"newfoundland\"]},{\"LocationID\": \"8200013\",\"Name\": \"St. Johns\",\"Type\": \"city\",\"Slug\": \"canada/newfoundland/st-johns\",\"Display\": [\"canada\",\"newfoundland\",\"st-johns\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000014",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Prince Edward Island",
+    "state_abbr": "PE",
+    "city": "Charlottetown",
+    "display": "Charlottetown, Canada",
+    "location_id": "8200014",
+    "property_name": "Charlottetown Harbor Resort",
+    "property_slug": "charlottetown-harbor-resort-0014",
+    "property_type_category": "Resort",
+    "usd_price": 90.87,
+    "occupancy": 4,
+    "bedroom_count": 5,
+    "bathroom_count": 2,
+    "number_of_review": 302,
+    "review_score_general": 6.1,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Hot Tub",
+      "Wheelchair Accessible",
+      "Parking",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -63.1311,
+        46.2382
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050010\",\"Name\": \"Prince Edward Island\",\"Type\": \"state\",\"Slug\": \"canada/pei\",\"Display\": [\"canada\",\"pei\"]},{\"LocationID\": \"8200014\",\"Name\": \"Charlottetown\",\"Type\": \"city\",\"Slug\": \"canada/pei/charlottetown\",\"Display\": [\"canada\",\"pei\",\"charlottetown\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000015",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Ontario",
+    "state_abbr": "ON",
+    "city": "Hamilton",
+    "display": "Hamilton, Canada",
+    "location_id": "8200015",
+    "property_name": "Hamilton Skyline Villa",
+    "property_slug": "hamilton-skyline-villa-0015",
+    "property_type_category": "Villa",
+    "usd_price": 91.47,
+    "occupancy": 8,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 324,
+    "review_score_general": 3.0,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Hot Tub",
+      "Breakfast Included",
+      "Wheelchair Accessible",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -79.8711,
+        43.2557
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050001\",\"Name\": \"Ontario\",\"Type\": \"state\",\"Slug\": \"canada/ontario\",\"Display\": [\"canada\",\"ontario\"]},{\"LocationID\": \"8200015\",\"Name\": \"Hamilton\",\"Type\": \"city\",\"Slug\": \"canada/ontario/hamilton\",\"Display\": [\"canada\",\"ontario\",\"hamilton\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000016",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Ontario",
+    "state_abbr": "ON",
+    "city": "London",
+    "display": "London, Canada",
+    "location_id": "8200016",
+    "property_name": "London Hostel",
+    "property_slug": "london-hostel-0016",
+    "property_type_category": "Hostel",
+    "usd_price": 203.12,
+    "occupancy": 5,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 195,
+    "review_score_general": 9.3,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Gym",
+      "Hot Tub",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -81.2497,
+        42.9849
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050001\",\"Name\": \"Ontario\",\"Type\": \"state\",\"Slug\": \"canada/ontario\",\"Display\": [\"canada\",\"ontario\"]},{\"LocationID\": \"8200016\",\"Name\": \"London\",\"Type\": \"city\",\"Slug\": \"canada/ontario/london\",\"Display\": [\"canada\",\"ontario\",\"london\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000017",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "British Columbia",
+    "state_abbr": "BC",
+    "city": "Kelowna",
+    "display": "Kelowna, Canada",
+    "location_id": "8200017",
+    "property_name": "Kelowna Grand Resort",
+    "property_slug": "kelowna-grand-resort-0017",
+    "property_type_category": "Resort",
+    "usd_price": 143.92,
+    "occupancy": 8,
+    "bedroom_count": 5,
+    "bathroom_count": 3,
+    "number_of_review": 465,
+    "review_score_general": 8.3,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Laundry",
+      "Hot Tub",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -119.496,
+        49.888
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050002\",\"Name\": \"British Columbia\",\"Type\": \"state\",\"Slug\": \"canada/british-columbia\",\"Display\": [\"canada\",\"british-columbia\"]},{\"LocationID\": \"8200017\",\"Name\": \"Kelowna\",\"Type\": \"city\",\"Slug\": \"canada/british-columbia/kelowna\",\"Display\": [\"canada\",\"british-columbia\",\"kelowna\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000018",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Alberta",
+    "state_abbr": "AB",
+    "city": "Banff",
+    "display": "Banff, Canada",
+    "location_id": "8200018",
+    "property_name": "Banff Riverside Hostel",
+    "property_slug": "banff-riverside-hostel-0018",
+    "property_type_category": "Hostel",
+    "usd_price": 130.76,
+    "occupancy": 4,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 405,
+    "review_score_general": 4.2,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Laundry",
+      "Hot Tub",
+      "Pet Friendly",
+      "Pool",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -115.5708,
+        51.1784
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050004\",\"Name\": \"Alberta\",\"Type\": \"state\",\"Slug\": \"canada/alberta\",\"Display\": [\"canada\",\"alberta\"]},{\"LocationID\": \"8200018\",\"Name\": \"Banff\",\"Type\": \"city\",\"Slug\": \"canada/alberta/banff\",\"Display\": [\"canada\",\"alberta\",\"banff\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000019",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Quebec",
+    "state_abbr": "QC",
+    "city": "Gatineau",
+    "display": "Gatineau, Canada",
+    "location_id": "8200019",
+    "property_name": "Gatineau Central House",
+    "property_slug": "gatineau-central-house-0019",
+    "property_type_category": "House",
+    "usd_price": 114.23,
+    "occupancy": 2,
+    "bedroom_count": 4,
+    "bathroom_count": 1,
+    "number_of_review": 455,
+    "review_score_general": 8.5,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Pool",
+      "Parking",
+      "Breakfast Included",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -75.7013,
+        45.4765
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050003\",\"Name\": \"Quebec\",\"Type\": \"state\",\"Slug\": \"canada/quebec\",\"Display\": [\"canada\",\"quebec\"]},{\"LocationID\": \"8200019\",\"Name\": \"Gatineau\",\"Type\": \"city\",\"Slug\": \"canada/quebec/gatineau\",\"Display\": [\"canada\",\"quebec\",\"gatineau\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000020",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Yukon",
+    "state_abbr": "YT",
+    "city": "Whitehorse",
+    "display": "Whitehorse, Canada",
+    "location_id": "8200020",
+    "property_name": "Whitehorse Garden Villa",
+    "property_slug": "whitehorse-garden-villa-0020",
+    "property_type_category": "Villa",
+    "usd_price": 96.66,
+    "occupancy": 2,
+    "bedroom_count": 3,
+    "bathroom_count": 1,
+    "number_of_review": 329,
+    "review_score_general": 5.4,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Wheelchair Accessible",
+      "Internet"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -135.057,
+        60.7212
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050011\",\"Name\": \"Yukon\",\"Type\": \"state\",\"Slug\": \"canada/yukon\",\"Display\": [\"canada\",\"yukon\"]},{\"LocationID\": \"8200020\",\"Name\": \"Whitehorse\",\"Type\": \"city\",\"Slug\": \"canada/yukon/whitehorse\",\"Display\": [\"canada\",\"yukon\",\"whitehorse\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000021",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Northwest Territories",
+    "state_abbr": "NT",
+    "city": "Yellowknife",
+    "display": "Yellowknife, Canada",
+    "location_id": "8200021",
+    "property_name": "The Yellowknife House",
+    "property_slug": "the-yellowknife-house-0021",
+    "property_type_category": "House",
+    "usd_price": 220.1,
+    "occupancy": 8,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 113,
+    "review_score_general": 8.6,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Hot Tub",
+      "Gym",
+      "Child Friendly",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -114.3718,
+        62.454
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050012\",\"Name\": \"Northwest Territories\",\"Type\": \"state\",\"Slug\": \"canada/nwt\",\"Display\": [\"canada\",\"nwt\"]},{\"LocationID\": \"8200021\",\"Name\": \"Yellowknife\",\"Type\": \"city\",\"Slug\": \"canada/nwt/yellowknife\",\"Display\": [\"canada\",\"nwt\",\"yellowknife\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000022",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Nunavut",
+    "state_abbr": "NU",
+    "city": "Iqaluit",
+    "display": "Iqaluit, Canada",
+    "location_id": "8200022",
+    "property_name": "Iqaluit Harbor Hostel",
+    "property_slug": "iqaluit-harbor-hostel-0022",
+    "property_type_category": "Hostel",
+    "usd_price": 143.07,
+    "occupancy": 3,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 490,
+    "review_score_general": 5.1,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Gym",
+      "Wheelchair Accessible",
+      "Parking",
+      "Laundry"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -68.5165,
+        63.7467
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050013\",\"Name\": \"Nunavut\",\"Type\": \"state\",\"Slug\": \"canada/nunavut\",\"Display\": [\"canada\",\"nunavut\"]},{\"LocationID\": \"8200022\",\"Name\": \"Iqaluit\",\"Type\": \"city\",\"Slug\": \"canada/nunavut/iqaluit\",\"Display\": [\"canada\",\"nunavut\",\"iqaluit\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000023",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Ontario",
+    "state_abbr": "ON",
+    "city": "Niagara Falls",
+    "display": "Niagara Falls, Canada",
+    "location_id": "8200023",
+    "property_name": "Niagara Falls Skyline Resort",
+    "property_slug": "niagara-falls-skyline-resort-0023",
+    "property_type_category": "Resort",
+    "usd_price": 284.32,
+    "occupancy": 3,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 170,
+    "review_score_general": 5.0,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Internet",
+      "Wheelchair Accessible",
+      "Gym",
+      "Pool",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -79.0849,
+        43.0896
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050001\",\"Name\": \"Ontario\",\"Type\": \"state\",\"Slug\": \"canada/ontario\",\"Display\": [\"canada\",\"ontario\"]},{\"LocationID\": \"8200023\",\"Name\": \"Niagara Falls\",\"Type\": \"city\",\"Slug\": \"canada/ontario/niagara-falls\",\"Display\": [\"canada\",\"ontario\",\"niagara-falls\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000024",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "British Columbia",
+    "state_abbr": "BC",
+    "city": "Whistler",
+    "display": "Whistler, Canada",
+    "location_id": "8200024",
+    "property_name": "Whistler Apartment",
+    "property_slug": "whistler-apartment-0024",
+    "property_type_category": "Apartment",
+    "usd_price": 237.03,
+    "occupancy": 8,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 112,
+    "review_score_general": 4.9,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Gym",
+      "Child Friendly",
+      "Kitchen",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -122.9574,
+        50.1163
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050002\",\"Name\": \"British Columbia\",\"Type\": \"state\",\"Slug\": \"canada/british-columbia\",\"Display\": [\"canada\",\"british-columbia\"]},{\"LocationID\": \"8200024\",\"Name\": \"Whistler\",\"Type\": \"city\",\"Slug\": \"canada/british-columbia/whistler\",\"Display\": [\"canada\",\"british-columbia\",\"whistler\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "HG-3000025",
+    "feed": 22,
+    "country": "Canada",
+    "country_code": "CA",
+    "state": "Alberta",
+    "state_abbr": "AB",
+    "city": "Jasper",
+    "display": "Jasper, Canada",
+    "location_id": "8200025",
+    "property_name": "Jasper Grand House",
+    "property_slug": "jasper-grand-house-0025",
+    "property_type_category": "House",
+    "usd_price": 177.48,
+    "occupancy": 3,
+    "bedroom_count": 4,
+    "bathroom_count": 3,
+    "number_of_review": 280,
+    "review_score_general": 6.9,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Air Conditioner",
+      "Kitchen",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -118.0806,
+        52.8737
+      ]
+    },
+    "categories": "[{\"LocationID\": \"91\",\"Name\": \"Canada\",\"Type\": \"country\",\"Slug\": \"canada\",\"Display\": [\"canada\"]},{\"LocationID\": \"8050004\",\"Name\": \"Alberta\",\"Type\": \"state\",\"Slug\": \"canada/alberta\",\"Display\": [\"canada\",\"alberta\"]},{\"LocationID\": \"8200025\",\"Name\": \"Jasper\",\"Type\": \"city\",\"Slug\": \"canada/alberta/jasper\",\"Display\": [\"canada\",\"alberta\",\"jasper\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000001",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "England",
+    "state_abbr": null,
+    "city": "London",
+    "display": "London, United Kingdom",
+    "location_id": "9200001",
+    "property_name": "London Grand Hostel",
+    "property_slug": "london-grand-hostel-0001",
+    "property_type_category": "Hostel",
+    "usd_price": 269.85,
+    "occupancy": 6,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 348,
+    "review_score_general": 7.8,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Parking",
+      "Gym",
+      "Child Friendly",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -0.1276,
+        51.5074
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050001\",\"Name\": \"England\",\"Type\": \"region\",\"Slug\": \"united-kingdom/england\",\"Display\": [\"united-kingdom\",\"england\"]},{\"LocationID\": \"9200001\",\"Name\": \"London\",\"Type\": \"city\",\"Slug\": \"united-kingdom/england/london\",\"Display\": [\"united-kingdom\",\"england\",\"london\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000002",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "England",
+    "state_abbr": null,
+    "city": "Manchester",
+    "display": "Manchester, United Kingdom",
+    "location_id": "9200002",
+    "property_name": "Manchester Riverside Hostel",
+    "property_slug": "manchester-riverside-hostel-0002",
+    "property_type_category": "Hostel",
+    "usd_price": 275.66,
+    "occupancy": 5,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 446,
+    "review_score_general": 7.1,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Wheelchair Accessible",
+      "Gym",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -2.2426,
+        53.4808
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050001\",\"Name\": \"England\",\"Type\": \"region\",\"Slug\": \"united-kingdom/england\",\"Display\": [\"united-kingdom\",\"england\"]},{\"LocationID\": \"9200002\",\"Name\": \"Manchester\",\"Type\": \"city\",\"Slug\": \"united-kingdom/england/manchester\",\"Display\": [\"united-kingdom\",\"england\",\"manchester\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000003",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "Scotland",
+    "state_abbr": null,
+    "city": "Edinburgh",
+    "display": "Edinburgh, United Kingdom",
+    "location_id": "9200003",
+    "property_name": "Edinburgh Central Hotel",
+    "property_slug": "edinburgh-central-hotel-0003",
+    "property_type_category": "Hotel",
+    "usd_price": 256.17,
+    "occupancy": 7,
+    "bedroom_count": 5,
+    "bathroom_count": 1,
+    "number_of_review": 353,
+    "review_score_general": 9.6,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Pet Friendly",
+      "Child Friendly",
+      "Laundry",
+      "Kitchen",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -3.1883,
+        55.9533
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050002\",\"Name\": \"Scotland\",\"Type\": \"region\",\"Slug\": \"united-kingdom/scotland\",\"Display\": [\"united-kingdom\",\"scotland\"]},{\"LocationID\": \"9200003\",\"Name\": \"Edinburgh\",\"Type\": \"city\",\"Slug\": \"united-kingdom/scotland/edinburgh\",\"Display\": [\"united-kingdom\",\"scotland\",\"edinburgh\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000004",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "Wales",
+    "state_abbr": null,
+    "city": "Cardiff",
+    "display": "Cardiff, United Kingdom",
+    "location_id": "9200004",
+    "property_name": "Cardiff Garden House",
+    "property_slug": "cardiff-garden-house-0004",
+    "property_type_category": "House",
+    "usd_price": 328.07,
+    "occupancy": 6,
+    "bedroom_count": 5,
+    "bathroom_count": 1,
+    "number_of_review": 141,
+    "review_score_general": 8.6,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Pool",
+      "Child Friendly",
+      "Breakfast Included",
+      "Internet",
+      "Wheelchair Accessible",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -3.1791,
+        51.4816
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050003\",\"Name\": \"Wales\",\"Type\": \"region\",\"Slug\": \"united-kingdom/wales\",\"Display\": [\"united-kingdom\",\"wales\"]},{\"LocationID\": \"9200004\",\"Name\": \"Cardiff\",\"Type\": \"city\",\"Slug\": \"united-kingdom/wales/cardiff\",\"Display\": [\"united-kingdom\",\"wales\",\"cardiff\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000005",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "Northern Ireland",
+    "state_abbr": null,
+    "city": "Belfast",
+    "display": "Belfast, United Kingdom",
+    "location_id": "9200005",
+    "property_name": "The Belfast Resort",
+    "property_slug": "the-belfast-resort-0005",
+    "property_type_category": "Resort",
+    "usd_price": 229.51,
+    "occupancy": 5,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 85,
+    "review_score_general": 4.0,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Pet Friendly",
+      "Hot Tub",
+      "Breakfast Included",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -5.9301,
+        54.5973
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050004\",\"Name\": \"Northern Ireland\",\"Type\": \"region\",\"Slug\": \"united-kingdom/northern-ireland\",\"Display\": [\"united-kingdom\",\"northern-ireland\"]},{\"LocationID\": \"9200005\",\"Name\": \"Belfast\",\"Type\": \"city\",\"Slug\": \"united-kingdom/northern-ireland/belfast\",\"Display\": [\"united-kingdom\",\"northern-ireland\",\"belfast\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000006",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "England",
+    "state_abbr": null,
+    "city": "Birmingham",
+    "display": "Birmingham, United Kingdom",
+    "location_id": "9200006",
+    "property_name": "Birmingham Harbor Villa",
+    "property_slug": "birmingham-harbor-villa-0006",
+    "property_type_category": "Villa",
+    "usd_price": 236.43,
+    "occupancy": 1,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 283,
+    "review_score_general": 3.8,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Hot Tub",
+      "Breakfast Included",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -1.8904,
+        52.4862
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050001\",\"Name\": \"England\",\"Type\": \"region\",\"Slug\": \"united-kingdom/england\",\"Display\": [\"united-kingdom\",\"england\"]},{\"LocationID\": \"9200006\",\"Name\": \"Birmingham\",\"Type\": \"city\",\"Slug\": \"united-kingdom/england/birmingham\",\"Display\": [\"united-kingdom\",\"england\",\"birmingham\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000007",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "England",
+    "state_abbr": null,
+    "city": "Liverpool",
+    "display": "Liverpool, United Kingdom",
+    "location_id": "9200007",
+    "property_name": "Liverpool Skyline House",
+    "property_slug": "liverpool-skyline-house-0007",
+    "property_type_category": "House",
+    "usd_price": 94.46,
+    "occupancy": 3,
+    "bedroom_count": 4,
+    "bathroom_count": 1,
+    "number_of_review": 23,
+    "review_score_general": 9.2,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Wheelchair Accessible",
+      "Gym",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -2.9916,
+        53.4084
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050001\",\"Name\": \"England\",\"Type\": \"region\",\"Slug\": \"united-kingdom/england\",\"Display\": [\"united-kingdom\",\"england\"]},{\"LocationID\": \"9200007\",\"Name\": \"Liverpool\",\"Type\": \"city\",\"Slug\": \"united-kingdom/england/liverpool\",\"Display\": [\"united-kingdom\",\"england\",\"liverpool\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000008",
+    "feed": 24,
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "state": "England",
+    "state_abbr": null,
+    "city": "Bristol",
+    "display": "Bristol, United Kingdom",
+    "location_id": "9200008",
+    "property_name": "Bristol Hotel",
+    "property_slug": "bristol-hotel-0008",
+    "property_type_category": "Hotel",
+    "usd_price": 195.79,
+    "occupancy": 4,
+    "bedroom_count": 1,
+    "bathroom_count": 3,
+    "number_of_review": 25,
+    "review_score_general": 9.6,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Parking",
+      "Air Conditioner",
+      "Wheelchair Accessible",
+      "Internet",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        -2.5879,
+        51.4545
+      ]
+    },
+    "categories": "[{\"LocationID\": \"92\",\"Name\": \"United Kingdom\",\"Type\": \"country\",\"Slug\": \"united-kingdom\",\"Display\": [\"united-kingdom\"]},{\"LocationID\": \"9050001\",\"Name\": \"England\",\"Type\": \"region\",\"Slug\": \"united-kingdom/england\",\"Display\": [\"united-kingdom\",\"england\"]},{\"LocationID\": \"9200008\",\"Name\": \"Bristol\",\"Type\": \"city\",\"Slug\": \"united-kingdom/england/bristol\",\"Display\": [\"united-kingdom\",\"england\",\"bristol\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000009",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "New South Wales",
+    "state_abbr": "NSW",
+    "city": "Sydney",
+    "display": "Sydney, Australia",
+    "location_id": "9200009",
+    "property_name": "Sydney Grand House",
+    "property_slug": "sydney-grand-house-0009",
+    "property_type_category": "House",
+    "usd_price": 276.92,
+    "occupancy": 6,
+    "bedroom_count": 2,
+    "bathroom_count": 2,
+    "number_of_review": 62,
+    "review_score_general": 4.2,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Parking",
+      "Hot Tub",
+      "Pet Friendly",
+      "Laundry",
+      "Gym",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        151.2093,
+        -33.8688
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050005\",\"Name\": \"New South Wales\",\"Type\": \"state\",\"Slug\": \"australia/new-south-wales\",\"Display\": [\"australia\",\"new-south-wales\"]},{\"LocationID\": \"9200009\",\"Name\": \"Sydney\",\"Type\": \"city\",\"Slug\": \"australia/new-south-wales/sydney\",\"Display\": [\"australia\",\"new-south-wales\",\"sydney\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000010",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "Victoria",
+    "state_abbr": "VIC",
+    "city": "Melbourne",
+    "display": "Melbourne, Australia",
+    "location_id": "9200010",
+    "property_name": "Melbourne Riverside Hotel",
+    "property_slug": "melbourne-riverside-hotel-0010",
+    "property_type_category": "Hotel",
+    "usd_price": 44.65,
+    "occupancy": 4,
+    "bedroom_count": 5,
+    "bathroom_count": 3,
+    "number_of_review": 103,
+    "review_score_general": 8.9,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Kitchen",
+      "Air Conditioner",
+      "Gym",
+      "Pool",
+      "Breakfast Included"
+    ],
+    "lonlat": {
+      "coordinates": [
+        144.9631,
+        -37.8136
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050006\",\"Name\": \"Victoria\",\"Type\": \"state\",\"Slug\": \"australia/victoria\",\"Display\": [\"australia\",\"victoria\"]},{\"LocationID\": \"9200010\",\"Name\": \"Melbourne\",\"Type\": \"city\",\"Slug\": \"australia/victoria/melbourne\",\"Display\": [\"australia\",\"victoria\",\"melbourne\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000011",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "Queensland",
+    "state_abbr": "QLD",
+    "city": "Brisbane",
+    "display": "Brisbane, Australia",
+    "location_id": "9200011",
+    "property_name": "Brisbane Central Resort",
+    "property_slug": "brisbane-central-resort-0011",
+    "property_type_category": "Resort",
+    "usd_price": 55.28,
+    "occupancy": 3,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 465,
+    "review_score_general": 7.6,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Air Conditioner",
+      "Pool"
+    ],
+    "lonlat": {
+      "coordinates": [
+        153.0251,
+        -27.4698
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050007\",\"Name\": \"Queensland\",\"Type\": \"state\",\"Slug\": \"australia/queensland\",\"Display\": [\"australia\",\"queensland\"]},{\"LocationID\": \"9200011\",\"Name\": \"Brisbane\",\"Type\": \"city\",\"Slug\": \"australia/queensland/brisbane\",\"Display\": [\"australia\",\"queensland\",\"brisbane\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000012",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "Western Australia",
+    "state_abbr": "WA",
+    "city": "Perth",
+    "display": "Perth, Australia",
+    "location_id": "9200012",
+    "property_name": "Perth Garden House",
+    "property_slug": "perth-garden-house-0012",
+    "property_type_category": "House",
+    "usd_price": 73.65,
+    "occupancy": 7,
+    "bedroom_count": 5,
+    "bathroom_count": 2,
+    "number_of_review": 47,
+    "review_score_general": 5.1,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Hot Tub",
+      "Pet Friendly",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        115.8605,
+        -31.9505
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050008\",\"Name\": \"Western Australia\",\"Type\": \"state\",\"Slug\": \"australia/western-australia\",\"Display\": [\"australia\",\"western-australia\"]},{\"LocationID\": \"9200012\",\"Name\": \"Perth\",\"Type\": \"city\",\"Slug\": \"australia/western-australia/perth\",\"Display\": [\"australia\",\"western-australia\",\"perth\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000013",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "South Australia",
+    "state_abbr": "SA",
+    "city": "Adelaide",
+    "display": "Adelaide, Australia",
+    "location_id": "9200013",
+    "property_name": "The Adelaide House",
+    "property_slug": "the-adelaide-house-0013",
+    "property_type_category": "House",
+    "usd_price": 86.71,
+    "occupancy": 1,
+    "bedroom_count": 2,
+    "bathroom_count": 3,
+    "number_of_review": 18,
+    "review_score_general": 3.7,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Kitchen",
+      "Laundry",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        138.6007,
+        -34.9285
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050009\",\"Name\": \"South Australia\",\"Type\": \"state\",\"Slug\": \"australia/south-australia\",\"Display\": [\"australia\",\"south-australia\"]},{\"LocationID\": \"9200013\",\"Name\": \"Adelaide\",\"Type\": \"city\",\"Slug\": \"australia/south-australia/adelaide\",\"Display\": [\"australia\",\"south-australia\",\"adelaide\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000014",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "Australian Capital Territory",
+    "state_abbr": "ACT",
+    "city": "Canberra",
+    "display": "Canberra, Australia",
+    "location_id": "9200014",
+    "property_name": "Canberra Harbor Hostel",
+    "property_slug": "canberra-harbor-hostel-0014",
+    "property_type_category": "Hostel",
+    "usd_price": 202.53,
+    "occupancy": 2,
+    "bedroom_count": 5,
+    "bathroom_count": 2,
+    "number_of_review": 105,
+    "review_score_general": 7.9,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Internet",
+      "Hot Tub",
+      "Laundry"
+    ],
+    "lonlat": {
+      "coordinates": [
+        149.13,
+        -35.2809
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050010\",\"Name\": \"Australian Capital Territory\",\"Type\": \"state\",\"Slug\": \"australia/act\",\"Display\": [\"australia\",\"act\"]},{\"LocationID\": \"9200014\",\"Name\": \"Canberra\",\"Type\": \"city\",\"Slug\": \"australia/act/canberra\",\"Display\": [\"australia\",\"act\",\"canberra\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000015",
+    "feed": 24,
+    "country": "Australia",
+    "country_code": "AU",
+    "state": "Tasmania",
+    "state_abbr": "TAS",
+    "city": "Hobart",
+    "display": "Hobart, Australia",
+    "location_id": "9200015",
+    "property_name": "Hobart Skyline Resort",
+    "property_slug": "hobart-skyline-resort-0015",
+    "property_type_category": "Resort",
+    "usd_price": 60.32,
+    "occupancy": 1,
+    "bedroom_count": 5,
+    "bathroom_count": 3,
+    "number_of_review": 119,
+    "review_score_general": 3.1,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Laundry",
+      "Parking",
+      "Hot Tub",
+      "Air Conditioner",
+      "Kitchen",
+      "Breakfast Included"
+    ],
+    "lonlat": {
+      "coordinates": [
+        147.3272,
+        -42.8821
+      ]
+    },
+    "categories": "[{\"LocationID\": \"93\",\"Name\": \"Australia\",\"Type\": \"country\",\"Slug\": \"australia\",\"Display\": [\"australia\"]},{\"LocationID\": \"9050011\",\"Name\": \"Tasmania\",\"Type\": \"state\",\"Slug\": \"australia/tasmania\",\"Display\": [\"australia\",\"tasmania\"]},{\"LocationID\": \"9200015\",\"Name\": \"Hobart\",\"Type\": \"city\",\"Slug\": \"australia/tasmania/hobart\",\"Display\": [\"australia\",\"tasmania\",\"hobart\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000016",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "Bavaria",
+    "state_abbr": null,
+    "city": "Munich",
+    "display": "Munich, Germany",
+    "location_id": "9200016",
+    "property_name": "Munich House",
+    "property_slug": "munich-house-0016",
+    "property_type_category": "House",
+    "usd_price": 177.66,
+    "occupancy": 2,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 50,
+    "review_score_general": 7.4,
+    "star_rating": 5,
+    "amenity_categories": [
+      "Parking",
+      "Wheelchair Accessible",
+      "Pet Friendly",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        11.582,
+        48.1351
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050012\",\"Name\": \"Bavaria\",\"Type\": \"region\",\"Slug\": \"germany/bavaria\",\"Display\": [\"germany\",\"bavaria\"]},{\"LocationID\": \"9200016\",\"Name\": \"Munich\",\"Type\": \"city\",\"Slug\": \"germany/bavaria/munich\",\"Display\": [\"germany\",\"bavaria\",\"munich\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000017",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "Berlin",
+    "state_abbr": null,
+    "city": "Berlin",
+    "display": "Berlin, Germany",
+    "location_id": "9200017",
+    "property_name": "Berlin Grand Apartment",
+    "property_slug": "berlin-grand-apartment-0017",
+    "property_type_category": "Apartment",
+    "usd_price": 324.8,
+    "occupancy": 8,
+    "bedroom_count": 4,
+    "bathroom_count": 2,
+    "number_of_review": 104,
+    "review_score_general": 7.1,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Hot Tub",
+      "Parking",
+      "Child Friendly",
+      "Kitchen"
+    ],
+    "lonlat": {
+      "coordinates": [
+        13.405,
+        52.52
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050013\",\"Name\": \"Berlin\",\"Type\": \"region\",\"Slug\": \"germany/berlin\",\"Display\": [\"germany\",\"berlin\"]},{\"LocationID\": \"9200017\",\"Name\": \"Berlin\",\"Type\": \"city\",\"Slug\": \"germany/berlin/berlin\",\"Display\": [\"germany\",\"berlin\",\"berlin\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000018",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "Hamburg",
+    "state_abbr": null,
+    "city": "Hamburg",
+    "display": "Hamburg, Germany",
+    "location_id": "9200018",
+    "property_name": "Hamburg Riverside Villa",
+    "property_slug": "hamburg-riverside-villa-0018",
+    "property_type_category": "Villa",
+    "usd_price": 136.3,
+    "occupancy": 4,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 199,
+    "review_score_general": 5.3,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Pool",
+      "Gym",
+      "Air Conditioner"
+    ],
+    "lonlat": {
+      "coordinates": [
+        9.9937,
+        53.5511
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050014\",\"Name\": \"Hamburg\",\"Type\": \"region\",\"Slug\": \"germany/hamburg\",\"Display\": [\"germany\",\"hamburg\"]},{\"LocationID\": \"9200018\",\"Name\": \"Hamburg\",\"Type\": \"city\",\"Slug\": \"germany/hamburg/hamburg\",\"Display\": [\"germany\",\"hamburg\",\"hamburg\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000019",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "North Rhine-Westphalia",
+    "state_abbr": null,
+    "city": "Cologne",
+    "display": "Cologne, Germany",
+    "location_id": "9200019",
+    "property_name": "Cologne Central House",
+    "property_slug": "cologne-central-house-0019",
+    "property_type_category": "House",
+    "usd_price": 26.39,
+    "occupancy": 7,
+    "bedroom_count": 1,
+    "bathroom_count": 1,
+    "number_of_review": 181,
+    "review_score_general": 3.9,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Kitchen",
+      "Parking",
+      "Internet",
+      "Pet Friendly",
+      "Wheelchair Accessible"
+    ],
+    "lonlat": {
+      "coordinates": [
+        6.9603,
+        50.9375
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050015\",\"Name\": \"North Rhine-Westphalia\",\"Type\": \"region\",\"Slug\": \"germany/nrw\",\"Display\": [\"germany\",\"nrw\"]},{\"LocationID\": \"9200019\",\"Name\": \"Cologne\",\"Type\": \"city\",\"Slug\": \"germany/nrw/cologne\",\"Display\": [\"germany\",\"nrw\",\"cologne\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000020",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "Hesse",
+    "state_abbr": null,
+    "city": "Frankfurt",
+    "display": "Frankfurt, Germany",
+    "location_id": "9200020",
+    "property_name": "Frankfurt Garden Resort",
+    "property_slug": "frankfurt-garden-resort-0020",
+    "property_type_category": "Resort",
+    "usd_price": 295.91,
+    "occupancy": 5,
+    "bedroom_count": 2,
+    "bathroom_count": 1,
+    "number_of_review": 126,
+    "review_score_general": 7.3,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Child Friendly",
+      "Pool",
+      "Breakfast Included",
+      "Pet Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        8.6821,
+        50.1109
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050016\",\"Name\": \"Hesse\",\"Type\": \"region\",\"Slug\": \"germany/hesse\",\"Display\": [\"germany\",\"hesse\"]},{\"LocationID\": \"9200020\",\"Name\": \"Frankfurt\",\"Type\": \"city\",\"Slug\": \"germany/hesse/frankfurt\",\"Display\": [\"germany\",\"hesse\",\"frankfurt\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000021",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "Baden-Wurttemberg",
+    "state_abbr": null,
+    "city": "Stuttgart",
+    "display": "Stuttgart, Germany",
+    "location_id": "9200021",
+    "property_name": "The Stuttgart Hotel",
+    "property_slug": "the-stuttgart-hotel-0021",
+    "property_type_category": "Hotel",
+    "usd_price": 84.19,
+    "occupancy": 7,
+    "bedroom_count": 3,
+    "bathroom_count": 3,
+    "number_of_review": 334,
+    "review_score_general": 5.1,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Breakfast Included",
+      "Laundry",
+      "Pool",
+      "Wheelchair Accessible",
+      "Pet Friendly",
+      "Hot Tub"
+    ],
+    "lonlat": {
+      "coordinates": [
+        9.1829,
+        48.7758
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050017\",\"Name\": \"Baden-Wurttemberg\",\"Type\": \"region\",\"Slug\": \"germany/baden-wurttemberg\",\"Display\": [\"germany\",\"baden-wurttemberg\"]},{\"LocationID\": \"9200021\",\"Name\": \"Stuttgart\",\"Type\": \"city\",\"Slug\": \"germany/baden-wurttemberg/stuttgart\",\"Display\": [\"germany\",\"baden-wurttemberg\",\"stuttgart\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000022",
+    "feed": 24,
+    "country": "Germany",
+    "country_code": "DE",
+    "state": "Saxony",
+    "state_abbr": null,
+    "city": "Dresden",
+    "display": "Dresden, Germany",
+    "location_id": "9200022",
+    "property_name": "Dresden Harbor Resort",
+    "property_slug": "dresden-harbor-resort-0022",
+    "property_type_category": "Resort",
+    "usd_price": 320.15,
+    "occupancy": 7,
+    "bedroom_count": 3,
+    "bathroom_count": 2,
+    "number_of_review": 183,
+    "review_score_general": 6.7,
+    "star_rating": 1,
+    "amenity_categories": [
+      "Air Conditioner",
+      "Kitchen",
+      "Pet Friendly",
+      "Child Friendly"
+    ],
+    "lonlat": {
+      "coordinates": [
+        13.7373,
+        51.0504
+      ]
+    },
+    "categories": "[{\"LocationID\": \"94\",\"Name\": \"Germany\",\"Type\": \"country\",\"Slug\": \"germany\",\"Display\": [\"germany\"]},{\"LocationID\": \"9050018\",\"Name\": \"Saxony\",\"Type\": \"region\",\"Slug\": \"germany/saxony\",\"Display\": [\"germany\",\"saxony\"]},{\"LocationID\": \"9200022\",\"Name\": \"Dresden\",\"Type\": \"city\",\"Slug\": \"germany/saxony/dresden\",\"Display\": [\"germany\",\"saxony\",\"dresden\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000023",
+    "feed": 24,
+    "country": "France",
+    "country_code": "FR",
+    "state": "Ile-de-France",
+    "state_abbr": null,
+    "city": "Paris",
+    "display": "Paris, France",
+    "location_id": "9200023",
+    "property_name": "Paris Skyline Resort",
+    "property_slug": "paris-skyline-resort-0023",
+    "property_type_category": "Resort",
+    "usd_price": 268.28,
+    "occupancy": 1,
+    "bedroom_count": 2,
+    "bathroom_count": 2,
+    "number_of_review": 16,
+    "review_score_general": 8.3,
+    "star_rating": 2,
+    "amenity_categories": [
+      "Child Friendly",
+      "Kitchen",
+      "Internet",
+      "Breakfast Included",
+      "Gym"
+    ],
+    "lonlat": {
+      "coordinates": [
+        2.3522,
+        48.8566
+      ]
+    },
+    "categories": "[{\"LocationID\": \"95\",\"Name\": \"France\",\"Type\": \"country\",\"Slug\": \"france\",\"Display\": [\"france\"]},{\"LocationID\": \"9050019\",\"Name\": \"Ile-de-France\",\"Type\": \"region\",\"Slug\": \"france/ile-de-france\",\"Display\": [\"france\",\"ile-de-france\"]},{\"LocationID\": \"9200023\",\"Name\": \"Paris\",\"Type\": \"city\",\"Slug\": \"france/ile-de-france/paris\",\"Display\": [\"france\",\"ile-de-france\",\"paris\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000024",
+    "feed": 24,
+    "country": "France",
+    "country_code": "FR",
+    "state": "Provence-Alpes-Cote dAzur",
+    "state_abbr": null,
+    "city": "Nice",
+    "display": "Nice, France",
+    "location_id": "9200024",
+    "property_name": "Nice Hostel",
+    "property_slug": "nice-hostel-0024",
+    "property_type_category": "Hostel",
+    "usd_price": 31.33,
+    "occupancy": 1,
+    "bedroom_count": 4,
+    "bathroom_count": 2,
+    "number_of_review": 41,
+    "review_score_general": 8.8,
+    "star_rating": 4,
+    "amenity_categories": [
+      "Laundry",
+      "Child Friendly",
+      "Internet",
+      "Parking"
+    ],
+    "lonlat": {
+      "coordinates": [
+        7.262,
+        43.7102
+      ]
+    },
+    "categories": "[{\"LocationID\": \"95\",\"Name\": \"France\",\"Type\": \"country\",\"Slug\": \"france\",\"Display\": [\"france\"]},{\"LocationID\": \"9050020\",\"Name\": \"Provence-Alpes-Cote dAzur\",\"Type\": \"region\",\"Slug\": \"france/provence\",\"Display\": [\"france\",\"provence\"]},{\"LocationID\": \"9200024\",\"Name\": \"Nice\",\"Type\": \"city\",\"Slug\": \"france/provence/nice\",\"Display\": [\"france\",\"provence\",\"nice\"]}]",
+    "published": true,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg"
+    ]
+  },
+  {
+    "id": "EP-4000025",
+    "feed": 24,
+    "country": "Spain",
+    "country_code": "ES",
+    "state": "Catalonia",
+    "state_abbr": null,
+    "city": "Barcelona",
+    "display": "Barcelona, Spain",
+    "location_id": "9200025",
+    "property_name": "Barcelona Grand Resort",
+    "property_slug": "barcelona-grand-resort-0025",
+    "property_type_category": "Resort",
+    "usd_price": 224.26,
+    "occupancy": 7,
+    "bedroom_count": 3,
+    "bathroom_count": 1,
+    "number_of_review": 12,
+    "review_score_general": 6.0,
+    "star_rating": 3,
+    "amenity_categories": [
+      "Internet",
+      "Kitchen",
+      "Gym"
+    ],
+    "lonlat": {
+      "coordinates": [
+        2.1734,
+        41.3851
+      ]
+    },
+    "categories": "[{\"LocationID\": \"96\",\"Name\": \"Spain\",\"Type\": \"country\",\"Slug\": \"spain\",\"Display\": [\"spain\"]},{\"LocationID\": \"9050021\",\"Name\": \"Catalonia\",\"Type\": \"region\",\"Slug\": \"spain/catalonia\",\"Display\": [\"spain\",\"catalonia\"]},{\"LocationID\": \"9200025\",\"Name\": \"Barcelona\",\"Type\": \"city\",\"Slug\": \"spain/catalonia/barcelona\",\"Display\": [\"spain\",\"catalonia\",\"barcelona\"]}]",
+    "published": false,
+    "images": [
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg"
+    ]
+  }
+]
