@@ -33,11 +33,11 @@ func loadProperties(path string)([]models.Property,error){
 	  
 }
 
-type AllProperties struct {
+type AllPropertyServices struct {
 	Properties []models.Property
 }
 
-func NewProperties(filePath string)(*AllProperties,error) {
+func NewPropertyServices(filePath string)(*AllPropertyServices,error) {
     
 	 filePath = strings.TrimSpace(filePath)
 
@@ -53,8 +53,8 @@ func NewProperties(filePath string)(*AllProperties,error) {
 
 	 
 
-	 return  &AllProperties{Properties: properties},nil
+	 return  &AllPropertyServices{Properties: properties},nil
 
 }
 
-var PropertyService AllProperties
+var PropertyServices AllPropertyServices

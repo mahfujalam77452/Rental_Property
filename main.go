@@ -7,16 +7,21 @@ import (
 	
 
 	"github.com/beego/beego/v2/core/logs"
-	beego "github.com/beego/beego/v2/server/web"
+	bee "github.com/beego/beego/v2/server/web"
 )
 
 func main() {
-
-	properties,err := services.NewProperties("data/rental_properties.json")
+    path,err := bee.AppConfig.String("data_path")
+    
+	if err != nil {
+		logs.Error("Extracting path variable from app.conf file failed !")
+	}
+	
+	propertiesObject,err := services.NewPropertyServices(path)
 	
 	if err != nil {
 		logs.Error("Property load failed : ",err)
 	}
-	services.PropertyService = *properties
-	beego.Run()
+	services.PropertyServices = *propertiesObject
+	bee.Run()
 }
