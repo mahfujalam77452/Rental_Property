@@ -3,7 +3,7 @@ package main
 import (
 	_ "Beego_API/routers"
 	"Beego_API/services"
-	
+
 	_ "fmt"
 
 	"github.com/beego/beego/v2/core/logs"
@@ -11,18 +11,18 @@ import (
 )
 
 func main() {
-    path,err := bee.AppConfig.String("data_file")
-    
+	path, err := bee.AppConfig.String("data_file")
+
 	if err != nil {
 		logs.Error("Extracting path variable from app.conf file failed !")
 	}
-	
-	propertiesObject,err := services.NewPropertyServices(path)
-	
+
+	propertiesObject, err := services.NewPropertyServices(path)
+
 	if err != nil {
-		logs.Error("Property load failed : ",err)
+		logs.Error("Property load failed : ", err)
 	}
 	services.PropertyServices = *propertiesObject
-	
+
 	bee.Run()
 }
