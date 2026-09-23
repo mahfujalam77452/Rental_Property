@@ -40,7 +40,10 @@ func (c *PropertyController) GetByID() {
 
 		c.Ctx.ResponseWriter.WriteHeader(apiError.Status)
 
-		c.Data["json"] = apiError
+		c.Data["json"] = map[string]string{
+			"Error": apiError.Error(),
+		}
+		 
 
 		c.ServeJSON()
 
