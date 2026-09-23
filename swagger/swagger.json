@@ -1,0 +1,336 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Travel API",
+        "description": "API for searching and booking travel properties\n",
+        "version": "1.0.0",
+        "contact": {
+            "email": "admin@w3engineers.com"
+        }
+    },
+    "basePath": "/v1",
+    "paths": {
+        "/properties/": {
+            "get": {
+                "tags": [
+                    "properties"
+                ],
+                "description": "Get rental properties with optional filters\n\u003cbr\u003e",
+                "operationId": "PropertyController.Get Properties",
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "limit",
+                        "description": "Maximum number of results (1-100)",
+                        "type": "integer",
+                        "format": "int64"
+                    },
+                    {
+                        "in": "query",
+                        "name": "min_price",
+                        "description": "Minimum price",
+                        "type": "number"
+                    },
+                    {
+                        "in": "query",
+                        "name": "max_price",
+                        "description": "Maximum price",
+                        "type": "number"
+                    },
+                    {
+                        "in": "query",
+                        "name": "min_star_rating",
+                        "description": "Minimum star rating (0-5)",
+                        "type": "integer",
+                        "format": "int64"
+                    },
+                    {
+                        "in": "query",
+                        "name": "min_review_score",
+                        "description": "Minimum review score",
+                        "type": "number"
+                    },
+                    {
+                        "in": "query",
+                        "name": "min_reviews",
+                        "description": "Minimum number of reviews",
+                        "type": "integer",
+                        "format": "int64"
+                    },
+                    {
+                        "in": "query",
+                        "name": "published",
+                        "description": "Published status",
+                        "type": "boolean"
+                    },
+                    {
+                        "in": "query",
+                        "name": "property_type",
+                        "description": "Property type",
+                        "type": "string"
+                    },
+                    {
+                        "in": "query",
+                        "name": "feed",
+                        "description": "Feed ID (11, 12, 22, 24)",
+                        "type": "integer",
+                        "format": "int64"
+                    },
+                    {
+                        "in": "query",
+                        "name": "min_bedroom",
+                        "description": "Minimum number of bedrooms",
+                        "type": "integer",
+                        "format": "int64"
+                    },
+                    {
+                        "in": "query",
+                        "name": "amenities",
+                        "description": "Comma-separated amenities; any match is accepted",
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "",
+                        "schema": {
+                            "$ref": "#/definitions/models.PropertyListResponse"
+                        }
+                    },
+                    "400": {
+                        "description": "{object} map[string]string"
+                    },
+                    "500": {
+                        "description": "{object} map[string]string"
+                    }
+                }
+            }
+        },
+        "/properties/{id}": {
+            "get": {
+                "tags": [
+                    "properties"
+                ],
+                "description": "Get a rental property by its ID\n\u003cbr\u003e",
+                "operationId": "PropertyController.Get Property By ID",
+                "parameters": [
+                    {
+                        "in": "path",
+                        "name": "id",
+                        "description": "Property ID",
+                        "required": true,
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "",
+                        "schema": {
+                            "$ref": "#/definitions/models.PropertyResponse"
+                        }
+                    },
+                    "400": {
+                        "description": "{object} map[string]string"
+                    },
+                    "404": {
+                        "description": "{object} map[string]string"
+                    },
+                    "500": {
+                        "description": "{object} map[string]string"
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "models.Breadcrumb": {
+            "title": "Breadcrumb",
+            "type": "object",
+            "properties": {
+                "Display": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "LocationID": {
+                    "type": "string"
+                },
+                "Name": {
+                    "type": "string"
+                },
+                "Slug": {
+                    "type": "string"
+                },
+                "Type": {
+                    "type": "string"
+                }
+            }
+        },
+        "models.Counts": {
+            "title": "Counts",
+            "type": "object",
+            "properties": {
+                "bathroom": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "bedroom": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "occupancy": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "reviews": {
+                    "type": "integer",
+                    "format": "int64"
+                }
+            }
+        },
+        "models.GeoInfo": {
+            "title": "GeoInfo",
+            "type": "object",
+            "properties": {
+                "breadcrumbs": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/models.Breadcrumb"
+                    }
+                },
+                "city": {
+                    "type": "string"
+                },
+                "country": {
+                    "type": "string"
+                },
+                "country_code": {
+                    "type": "string"
+                },
+                "lat": {
+                    "type": "number",
+                    "format": "double"
+                },
+                "location_id": {
+                    "type": "string"
+                },
+                "lon": {
+                    "type": "number",
+                    "format": "double"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "state": {
+                    "type": "string"
+                },
+                "state_abbr": {
+                    "type": "string"
+                }
+            }
+        },
+        "models.Image": {
+            "title": "Image",
+            "type": "object",
+            "properties": {
+                "count": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "images": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "models.PropertyInfo": {
+            "title": "PropertyInfo",
+            "type": "object",
+            "properties": {
+                "amenities": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "counts": {
+                    "$ref": "#/definitions/models.Counts"
+                },
+                "image": {
+                    "$ref": "#/definitions/models.Image"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "price": {
+                    "type": "number",
+                    "format": "double"
+                },
+                "property_type": {
+                    "type": "string"
+                },
+                "review_score": {
+                    "type": "number",
+                    "format": "double"
+                },
+                "slug": {
+                    "type": "string"
+                },
+                "star_rating": {
+                    "type": "integer",
+                    "format": "int64"
+                }
+            }
+        },
+        "models.PropertyListResponse": {
+            "title": "PropertyListResponse",
+            "type": "object",
+            "properties": {
+                "result": {
+                    "$ref": "#/definitions/models.Result"
+                }
+            }
+        },
+        "models.PropertyResponse": {
+            "title": "PropertyResponse",
+            "type": "object",
+            "properties": {
+                "feed": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "geo_info": {
+                    "$ref": "#/definitions/models.GeoInfo"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "property": {
+                    "$ref": "#/definitions/models.PropertyInfo"
+                },
+                "published": {
+                    "type": "boolean"
+                }
+            }
+        },
+        "models.Result": {
+            "title": "Result",
+            "type": "object",
+            "properties": {
+                "count": {
+                    "type": "integer",
+                    "format": "int64"
+                },
+                "items": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/models.PropertyResponse"
+                    }
+                }
+            }
+        }
+    }
+}
