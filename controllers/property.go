@@ -13,7 +13,7 @@ type PropertyController struct {
 func (c *PropertyController) GetByID(){
 
 	id := c.Ctx.Input.Param(":id")
-    properyty,err := services.PropertyServices.GetPropertyByID(id)
+    property,err := services.PropertyServices.GetPropertyByID(id)
 
 	if err != nil {
 		c.Data["json"] = map[string]string{
@@ -24,6 +24,25 @@ func (c *PropertyController) GetByID(){
 		return
 	}
 
-	c.Data["json"] = properyty
+	c.Data["json"] = property
 	c.ServeJSON()
+}
+
+func (c *PropertyController) Get() {
+
+	properties,err := services.PropertyServices.GetProperties()
+
+	if err != nil {
+		c.Data["json"] = map[string]string{
+			"error":err.Error(),
+		}
+		c.Ctx.ResponseWriter.WriteHeader(404)
+		c.ServeJSON()
+		return
+	}
+
+	c.Data["json"] = properties
+	c.ServeJSON()
+
+	
 }

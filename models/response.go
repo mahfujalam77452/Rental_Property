@@ -52,3 +52,13 @@ type PropertyResponse struct {
     GeoInfo   GeoInfo `json:"geo_info"`
     Property  PropertyInfo `json:"property"`
 }
+
+type Result struct {
+    Count int `json:"count"`
+    Items []PropertyResponse `json:"items"`
+}
+
+
+type PropertyListResponse struct {
+    Result Result `json:"result"`
+}

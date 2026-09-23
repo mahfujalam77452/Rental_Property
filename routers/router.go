@@ -8,6 +8,7 @@ import (
 func init(){
 	ns := beego.NewNamespace("/v1",
 	beego.NSRouter("/properties/:id",&controllers.PropertyController{},"get:GetByID"),
+	beego.NSRouter("/properties",&controllers.PropertyController{},"get:Get"),
 	)
 
 	beego.AddNamespace(ns)

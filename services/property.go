@@ -139,3 +139,28 @@ func (s *AllPropertyServices) GetPropertyByID(id string)(*models.PropertyRespons
 
 	return nil,errors.New("Property Not found !")
 }
+
+func (s *AllPropertyServices) GetProperties()(*models.PropertyListResponse,error) {
+
+	var propertyList []models.PropertyResponse
+
+	for _,property :=range(s.Properties) {
+        
+		transformedProperty,err := transformProperty(property)
+
+		if err != nil {
+			return  nil,fmt.Errorf("Tranfomation of data failed !")
+		}
+
+		propertyList = append(propertyList, *transformedProperty)
+
+
+	}
+
+	return &models.PropertyListResponse{
+         Result: models.Result{
+			Count: len(propertyList),
+			Items: propertyList,
+		 },
+	},nil
+}
