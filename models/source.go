@@ -13,7 +13,7 @@ type Property struct {
 	StateAbbr   string `json:"state_abbr"`
 	City        string `json:"city"`
 	Display     string `json:"display"`
-	LocationID  string `json:"loacation_id"`
+	LocationID  string `json:"location_id"`
 
 	PropertyName         string `json:"property_name"`
 	PropertySlug         string `json:"property_slug"`

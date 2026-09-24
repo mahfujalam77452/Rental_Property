@@ -254,7 +254,7 @@ func FilterProperty(property *models.Property, query *PropertyFilter) bool {
 
 	//Filtering Minimum Bed Room
 
-	if query.MinBedroom != nil && property.BathroomCount < *query.MinBedroom {
+	if query.MinBedroom != nil && property.BedroomCount < *query.MinBedroom {
 		return false
 	}
 
