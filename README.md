@@ -86,7 +86,9 @@ data_file = data/rental_properties.json
 
 ```bash
 # 1. Get the code and enter the project folder
-cd Beego_API
+git clone https://github.com/mahfujalam77452/Rental_Property.git
+cd Rental_Property
+
 
 # 2. Download dependencies
 go mod tidy
@@ -103,11 +105,7 @@ http server Running on http://:8080
 
 The API is now available at `http://localhost:8080`.
 
-Prefer not to use Bee? This works too:
-
-```bash
-go run main.go
-```
+The Swagger are availabe at `http://localhost:8080/swagger/#/`
 
 ---
 
